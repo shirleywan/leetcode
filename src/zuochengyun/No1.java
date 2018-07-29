@@ -41,3 +41,4 @@ public class No1 {
 		System.out.println(stack.getMin());
 	}
 }
+
