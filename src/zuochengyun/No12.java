@@ -4,13 +4,13 @@ import java.util.*;
 import zuochengyun.util.DoubleNode;
 import zuochengyun.util.Node;
 /**
- * 在单链表和双链表中删除倒数第k个节点
- */
+ * 在单链表和双链表中删除倒数第 k 个节点
+  */
 
 class Solution12{
     /**
-     *设置两个指针，间隔为k，当q到达最后是，p就是要删除的节点
-     */
+     * 设置两个指针，间隔为 k，当 q 到达最后是，p 就是要删除的节点
+      */
     public Node deleteSingleKth(Node root , int k){
         if(root == null ) return null;
         if (k <= 0 ) return root;
@@ -18,8 +18,8 @@ class Solution12{
         Node q = root ;
         while(k > 0 ){
             q=q.next ; k -- ;
-            if (q == null){ //如果k>链表长度，则删除第一个
-                return root.next;
+            if (q == null){ // 如果 k > 链表长度，则删除第一个
+                 return root.next;
             }
         }
         while(q.next!=null){
@@ -31,23 +31,33 @@ class Solution12{
     }
 
     /**
-     *双向链表与单链表处理方法相同，这里使用另一种方法处理，
-     * 当节点向后移动1个时，k减小1，当k = 0时，即为要删除的节点;
+     * 双向链表与单链表处理方法相同，这里使用另一种方法处理，
+     * 当节点向后移动 1 个时，k 减小 1，
+     * 当 k > 0 时，不删除节点;
+     *  k=0时，删除头节点；
+     *  k<0时，再次从头遍历，当k = 0时就是待删除节点；
      */
     public DoubleNode deleteTwoKth(DoubleNode root , int k){
         if(root == null || k<= 0) return root;
         DoubleNode p = root ;
-        while( k > 1){
+        while(p!=null){
             p = p.next;
             k -- ;
-            if (p == null){
-                root.next.last = null;
-                return root.next;
-            }
         }
-        p.next = p.next.next;
-        if(p.next!=null){ p.next.last = p; }
-        return root;
+        if( k > 0){return root;}
+        else{
+        	if (k == 0){ return root.next;}
+        	else{
+        		p = root;
+        		while( k < -1 ){
+        			p = p.next;
+        			k++;
+        		}
+        		p.next = p.next.next;
+        		if(p.next !=null){p.next.last = p;}
+        		return root;
+        	}
+        }
     }
 }
 
