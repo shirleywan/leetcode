@@ -1,41 +1,33 @@
 package zuochengyun;
-import com.sun.javafx.runtime.SystemProperties;
 
 import java.util.*;
+import zuochengyun.util.TreeNode;
 /**
  * 构造数组的MaxTree
+ *
  */
-class Node{
-    public int value;
-    public Node left;
-    public Node right;
-
-    public Node (int data){
-        this.value = data;
-    }
-}
 class Solution8{
     int length;
-    Node[] nodellist = new Node[length];
-    Node[] Father = new Node[2 * length];
+    TreeNode[] nodellist = new TreeNode[length];
+    TreeNode[] Father = new TreeNode[2 * length];
     public void setLength(int[] nums){
         this.length = nums.length;
     }
-    public Node maxTree(int[] nums){
+    public TreeNode maxTree(int[] nums){
         if(nums.length ==0){return null;}
         int max = nums[0];
         int i = 0;
         for ( i = 0 ; i< nums.length ; i++){
-            nodellist[i] = new Node(nums[i]);
+            nodellist[i] = new TreeNode(nums[i]);
         }
         for ( i = 0 ; i< nums.length ; i++){
             if(nums[i] > max){ max = nums[i] ;}
         }
-        Node root = new Node(max);
+        TreeNode root = new TreeNode(max);
         for( i =0 ;i< nums.length ;i++){
             generate(nums , i);
         }
-        for (Node node : Father){
+        for (TreeNode node : Father){
             System.out.println(node.value);
         }
         return root;
@@ -43,7 +35,7 @@ class Solution8{
     public void generate(int[] nums , int n){
         int left = Integer.MAX_VALUE;
         int right = Integer.MAX_VALUE;
-        Node father = null;
+        TreeNode father = null;
 
         Stack<Integer> stack = new Stack<Integer>();
         for(int j = 0 ; j<n ; j++){
@@ -80,5 +72,3 @@ public class No8 {
         System.out.println(solution.maxTree(nums));
     }
 }
-
-
