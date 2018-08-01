@@ -4,8 +4,6 @@ import com.sun.javafx.runtime.SystemProperties;
 import java.util.*;
 /**
  * 构造数组的MaxTree
- * @author Administrator
- *
  */
 class Node{
     public int value;
@@ -82,3 +80,5 @@ public class No8 {
         System.out.println(solution.maxTree(nums));
     }
 }
+
+
