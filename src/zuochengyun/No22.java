@@ -7,7 +7,7 @@ import zuochengyun.util.Node;
  */
 class Solution22{
 	/**
-	 * 方法一：
+	 * 方法一：较难，直接调整
 	 */
 	public Node reverseBetweenK1 (Node head , int k){
 		if(head == null || head.next == null){return head ; }
@@ -28,10 +28,44 @@ class Solution22{
 		}
 		return head;
 	}
+	
 	/**
-	 * 方法二：将node按照顺序放如数组中，在从头到尾连接数组
+	 * 方法三：用栈实现
 	 */
 	public Node reverseBetweenK2 (Node head , int k){
+		if(head == null || head.next == null){return head ; }
+		Stack<Node> stack = new Stack<Node>();
+		Node p = head;
+		Node headNew = new Node(0);
+		Node q = headNew; 
+		int count = 0;
+		while( p != null){
+			if(count < k){
+				stack.push( p ) ;
+				p = p.next ;
+				count ++;
+			}
+			else{
+				while(!stack.isEmpty()){
+					q.next = stack.pop();
+					q = q.next;
+				}
+				count = 0;
+			}
+		}
+		if(count < k){
+			while(!stack.isEmpty()){
+				p = stack.pop();
+			}
+		}
+		q.next = p; //只要弹栈到最后一个，后面这几个节点的next值不改变即可；
+		return headNew.next;
+	}
+	
+	/**
+	 * 方法三：将node按照顺序放如数组中，在从头到尾连接数组
+	 */
+	public Node reverseBetweenK3 (Node head , int k){
 		if(head == null || head.next == null){return head ; }
 		Node p = head;
 		int count = 0;
