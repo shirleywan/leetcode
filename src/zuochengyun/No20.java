@@ -4,6 +4,7 @@ import java.util.*;
 import zuochengyun.util.Node;
 /**
  * 两个单链表生成相加链表
+ * 注意：要考虑进位
  */
 
 class Solution20{
@@ -33,12 +34,15 @@ class Solution20{
 		Node[] nodes = new Node[count1];
 		int num1 = 0;
 		int num2 = 0;
+		int flag = 0;
 		while(!stack1.isEmpty() || !stack2.isEmpty()){
 			count1 -- ;
-			num1 = 0 ; num2 = 0;
+			num1 = 0 ; num2 = 0; 
 			if(!stack1.isEmpty()){num1 = stack1.pop();}
 			if(!stack2.isEmpty()){num2 = stack2.pop();}
-			Node node = new Node(num1 + num2);
+			Node node = new Node((num1 + num2 + flag)%10);
+			if((num1 + num2) >9){ flag = 1;}
+			else{flag = 0;}
 			nodes[count1] = node;
 		}
 		for (int i = 0 ; i < nodes.length-1 ; i++){
@@ -75,12 +79,15 @@ class Solution20{
 		Node q = head2;
 		int num1 = 0;
 		int num2 = 0;
+		int flag = 0; //注意，进位标志
 		List<Node> list = new ArrayList<Node>();
 		while( p != null || q != null){
 			num1 = 0 ; num2 = 0;
 			if( p != null) { num1 = p.value ; p = p.next ; }
 			if( q != null) { num2 = q.value ; q = q.next ; }
-			Node node = new Node(num1 + num2);
+			Node node = new Node((num1 + num2 + flag)%10);
+			if((num1 + num2) >9){ flag = 1;}
+			else{flag = 0;}
 			list.add(node);
 		}
 		//注意，这时list中放入的node顺序是反的
@@ -97,7 +104,7 @@ public class No20 {
         Node n1 = new Node(2);
         Node n2 = new Node(5);
         Node n3 = new Node(3);
-        Node n4 = new Node(1);
+        Node n4 = new Node(8);
         root.next = n1 ;n1.next = n2 ; //n2.next = n3;
         n3.next = n4 ;
         Node result = new Solution20().add2(root, n3);
