@@ -11,22 +11,42 @@ class Solution22{
 	 */
 	public Node reverseBetweenK1 (Node head , int k){
 		if(head == null || head.next == null){return head ; }
-		Node p = head;
-		Node first = new Node(0);
-		Node q = head;
-		int count = 0;
+		Node p = head.next;
+		Node first = head;
+		Node headNew = new Node(0);
+		Node q = headNew;
+		q.next = head ;
+		int count = 1;
 		while( p != null ){
 			while( p != null  && count < k){
-				q.next = p.next ;
-				p.next = first ; 
-				first = p ;
-				p = q.next;
+				first.next = p.next ;
+				p.next = q.next ;
+				q.next = p ;
+				p = first.next;
 				count ++;
+				if ( p ==null) break;
 			}
-			count = 0;
+			if( p !=null ) {
+				count = 1;
+				q = first;
+				first = q.next ;
+				p = first.next;
+			}
+			else{
+				if(count < k){
+					first = q.next;
+					p = first.next;
+					while( p != null){
+						first.next = p.next;
+						p.next = q.next ;
+						q.next = p;
+						p = first.next;
+					}
+				}
+			}
 			
 		}
-		return head;
+		return headNew.next;
 	}
 	
 	/**
@@ -105,8 +125,9 @@ public class No22 {
         Node n2 = new Node(5);
         Node n3 = new Node(6);
         Node n4 = new Node(5);
-        root.next = n1 ;n1.next = n2 ; n2.next = n3;n3.next = n4 ;
-        Node result = new Solution22().reverseBetweenK2(root, 3);
+        Node n5 = new Node(9);
+        root.next = n1 ;n1.next = n2 ; n2.next = n3;n3.next = n4 ;n4 .next  = n5;
+        Node result = new Solution22().reverseBetweenK1(root, 3);
         while(result != null){
             System.out.println(result.value);
             result = result.next ;
