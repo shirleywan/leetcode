@@ -3,7 +3,7 @@ package zuochengyun;
 import java.util.*;
 import zuochengyun.util.Node;
 /**
- * 合并两个有序的单链表
+ * 按照左右半区的方式重新组合单链表
  */
 class Solution29{
 	public Node halfCombine(Node head){
