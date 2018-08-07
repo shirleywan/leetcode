@@ -8,6 +8,9 @@ import java.util.*;
  */
 
 class Solution34 {
+	/**
+	 * 先序遍历实现
+	 */
     public String serialization(TreeNode root) {
         if (root == null) {return "#!";}
         String string = root.value + "!";
@@ -16,27 +19,35 @@ class Solution34 {
         return string;
     }
 
-    //反序列化使用队列实现
+    //反序列化使用队列实现，注意这里的递归实现
     public TreeNode non_serialize(String string) {
         if (string == "#!") {return null;}
         String[] ch = string.split("!");
-        TreeNode[] nodes = new TreeNode[ch.length];
-        for (int i =0 ; i < ch.length ; i ++){
-            if ( ch[i].equals("#") ) {
-                TreeNode node = new TreeNode(Integer.valueOf(ch[i]));
-                nodes[ i ] = node;
-            }
-            else{
-                nodes[i] = null;
-            }
+        Queue<String> queue = new LinkedList<String>();
+        for (String str : ch){
+        	queue.offer(str);
         }
-        TreeNode p = nodes[0];
-        for (int i = 1 ; i < nodes.length ; i ++){
-            if(nodes[i] != null){p.left = nodes[i];}
-        }
-
+        return preSerialize(queue);
+    }
+    public TreeNode preSerialize(Queue<String> queue){
+    	String str = queue.poll();
+    	if (str.equals("#")){return null;}
+    	TreeNode node = new TreeNode(Integer.valueOf(str));
+    	node.left = preSerialize(queue);
+    	node.right = preSerialize(queue);
+    	return node;
     }
 
+    /**
+	 * 层次遍历实现
+	 */
+    public String serialization1(TreeNode root) {
+        if (root == null) {return "#!";}
+        String string = root.value + "!";
+        string += serialization(root.left);
+        string += serialization(root.right);
+        return string;
+    }
 }
 
 public class No34 {
@@ -51,6 +62,10 @@ public class No34 {
         root.left = n1; root.right = n3;
         n1.right = n2;
         n3.left = n4; n3.right = n5;
-        System.out.println(new Solution34().serialization(root));
+        Solution34 solution = new Solution34();
+        String string = solution.serialization(root);
+        System.out.println(string);
+        TreeNode result = solution.non_serialize(string);
+        System.out.println(solution.serialization(result));
     }
 }
