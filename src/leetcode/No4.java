@@ -23,7 +23,6 @@ class Solution4 {
         p.next = null;
         ListNode left = sortList(head);
         ListNode right = sortList(mid);
-
         return merge(left,right);
     }
     public ListNode merge(ListNode head , ListNode mid){
@@ -32,26 +31,37 @@ class Solution4 {
         ListNode first = new ListNode(0);
         ListNode pointer = first;
         while( q != null && p != null){
-            if(p.val > q.val){pointer.next = q;pointer = pointer.next;q = q.next;}
+            if(p.val > q.val){
+                pointer.next = q;pointer = pointer.next; q = q.next;
+            }
             else{
-                pointer.next = p;pointer = pointer.next;p = p.next;
+                pointer.next = p;p = p.next;pointer = pointer.next;
             }
         }
+        if( p == null){pointer.next = q;}
+        if( q == null){pointer.next = p;}
         return first.next;
     }
 }
 public class No4 {
     public static void main(String[] args){
-        ListNode n1 = new ListNode(5);
-        ListNode n2 = new ListNode(4);
-        ListNode n3 = new ListNode(3);
-        ListNode n4 = new ListNode(2);
-        ListNode n5 = new ListNode(1);
-        n1.next = n2 ;n2.next = n3; n3.next = n4; n4.next = n5;
+        ListNode n1 = new ListNode(3);
+        ListNode n2 = new ListNode(2);
+        ListNode n3 = new ListNode(4);
+//        ListNode n4 = new ListNode(2);
+//        ListNode n5 = new ListNode(1);
+        n1.next = n2 ;n2.next = n3; //n3.next = n4; n4.next = n5;
+//        ListNode result = new Solution4().merge(n1,n2);
+//        while (result!= null){
+//            System.out.println(result.val);
+//            result = result.next;
+//        }
+
         ListNode result = new Solution4().sortList(n1);
         while (result!= null){
             System.out.println(result.val);
             result = result.next;
         }
+
     }
 }
