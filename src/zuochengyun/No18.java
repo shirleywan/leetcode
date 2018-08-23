@@ -41,18 +41,28 @@ class Solution18{
 	 * 方法二：将链表划分为3个部分，small、equal、big
 	 */
 	
-	public Node sort1(Node head , Node node){
-		if(head == null || head.next == null){return head;}
+	public Node sort1(Node head , Node node) {
+		if (head == null || head.next == null) {
+			return head;
+		}
 		Node small = head;
 		Node equal = head;
 		Node big = head;
 		Node p = head;
-		while( p != null ){ 
-			if ( p.value < small.value ){ small = p; }
-			if ( p.value == node.value ){ equal = p; }
-			if ( p.value > big.value   ){ big   = p; }
+		while (p != null) {
+			if (p.value < small.value) {
+				small = p;
+			}
+			if (p.value == node.value) {
+				equal = p;
+			}
+			if (p.value > big.value) {
+				big = p;
+			}
 			p = p.next;
 		}
+		return p;
+	}
 }
 
 public class No18 {

@@ -1,4 +1,4 @@
-package zuochengyun；
+package zuochengyun;
 import java.util.*;
 
 class Solution6{

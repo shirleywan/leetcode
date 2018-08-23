@@ -7,8 +7,9 @@ import java.util.*;
  * 较为直观地打印二叉树 - p100
  */
 
-class Solution3{
-    public void printErchaTree(root){
+class Solution33{
+    public TreeNode printErchaTree(TreeNode root){
+        return null;
     }
 }
 

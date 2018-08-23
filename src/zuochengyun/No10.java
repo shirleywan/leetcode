@@ -5,7 +5,7 @@ import java.util.*;
  * 最大值减去最小值小于等于num的子数组数量
  */
 class Solution10{
-    public int countArrayNums(int[] nums{
+    public int countArrayNums(int[] nums){
         return 0;
     }
 }
