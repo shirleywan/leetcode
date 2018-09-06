@@ -40,7 +40,7 @@ class Solution43 {
      */
     public boolean isBalance2(TreeNode root){
         if(root == null){return true;}
-        
+
         return true;
     }
 }
