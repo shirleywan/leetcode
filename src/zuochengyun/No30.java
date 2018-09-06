@@ -3,7 +3,7 @@ package zuochengyun;
 import java.util.*;
 import zuochengyun.util.Node;
 /**
- * 向有序的环形单链表中插入新节点
+ * 合并两个有序的单链表
  */
 class Solution30{
 	public Node insertCircleList(Node head , int num){
@@ -59,4 +59,3 @@ public class No30 {
         System.out.println(p.next.value);
 	}
 }
-

@@ -1,10 +1,8 @@
 package zuochengyun;
 
 import java.util.Arrays;
+
 import zuochengyun.util.Node;
-/**
- * 将单向链表按某值划分成左边小、中间相等、右边大的形式
- */
 
 class Solution18{
 	/**
@@ -36,32 +34,25 @@ class Solution18{
 		}
 		return head;
 	}
-	
 	/**
 	 * 方法二：将链表划分为3个部分，small、equal、big
 	 */
 	
-	public Node sort1(Node head , Node node) {
-		if (head == null || head.next == null) {
-			return head;
-		}
+	public Node sort1(Node head , Node node){
+		if(head == null || head.next == null){return head;}
 		Node small = head;
 		Node equal = head;
 		Node big = head;
 		Node p = head;
-		while (p != null) {
-			if (p.value < small.value) {
-				small = p;
-			}
-			if (p.value == node.value) {
-				equal = p;
-			}
-			if (p.value > big.value) {
-				big = p;
-			}
+		while( p != null ){ 
+			if ( p.value < small.value ){ small = p; }
+			if ( p.value == node.value ){ equal = p; }
+			if ( p.value > big.value   ){ big   = p; }
 			p = p.next;
 		}
-		return p;
+		
+		
+		return head;
 	}
 }
 
