@@ -8,13 +8,13 @@ import java.util.Queue;
 
 /**
  * 判断二叉树是否是平衡二叉树
- * 时间复杂度O(N^2);
+ *
  */
 
 class Solution43 {
     /**
      * 求出左右节点的层数，比较差值是否小于1
-     * 复杂度是O(m*m),比较高
+     * 复杂度是O(m*2),比较高
      */
     public boolean isBalance(TreeNode root){
         if(root == null){return true;}
@@ -34,7 +34,15 @@ class Solution43 {
         if(root.left == null && root.right == null){return 1;}
         return Math.max(level(root.left) +1 , level(root.right)+1);
     }
-
+    /**
+     * 后续遍历实现
+     * 复杂度是O(m),比较高
+     */
+    public boolean isBalance2(TreeNode root){
+        if(root == null){return true;}
+        
+        return true;
+    }
 }
 
 public class No43 {
