@@ -25,7 +25,7 @@ class Solution40 {
         for(int i = 0 ; i <list.size()-1 ; i++){
             if(list.get(i).value > list.get(i+1).value){
                 if(count %2 == 0){
-                    nodes[count] = list.get(i);count ++;
+                    nodes[count] = list.get(i);count ++;nodes[count] = list.get(i+1);
                 }
                 else{
                     nodes[count] = list.get(i+1);count++;
