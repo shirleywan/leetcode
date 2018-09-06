@@ -1,6 +1,7 @@
 package zuochengyun;
 import java.util.*;
 import zuochengyun.util.*;
+import zuochengyun.util.Node;
 /**
  * 反转单向和双向链表
  */

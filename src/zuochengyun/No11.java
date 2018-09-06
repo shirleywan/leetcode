@@ -1,6 +1,6 @@
 package zuochengyun;
 import java.util.*;
-import zuochengyun.util.*;
+import zuochengyun.util.Node;
 /**
  * 打印两个有序链表的公共部分
  */
