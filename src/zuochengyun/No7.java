@@ -4,7 +4,6 @@ import java.util.*;
 
 /**
  * 生成窗口最大值数组
- * 这里注意，LinkedList类就是双向链表，有First和Last两个方向；
   */
 class Solution7{
     public int[] windowMaxArray(int[] nums , int n){

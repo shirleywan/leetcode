@@ -16,7 +16,7 @@ class Solution27{
 		node.next = next.next;
 	}
 }
-//主程序运行不了
+
 public class No27 {
 	public static void main(String[] args) {
 		Node root = new Node(1);

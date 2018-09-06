@@ -83,7 +83,7 @@ class Solution17{
 
 public class No17 {
 	public static void main(String[] args) {
-	Node root = new Node(1);
+		Node root = new Node(1);
         Node n1 = new Node(2);
         Node n2 = new Node(3);
         Node n5 = new Node(3);

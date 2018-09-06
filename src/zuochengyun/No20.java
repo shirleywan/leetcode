@@ -79,7 +79,7 @@ class Solution20{
 		Node q = head2;
 		int num1 = 0;
 		int num2 = 0;
-		int flag = 0; //注意，进位标志
+		int flag = 0; //进位标志
 		List<Node> list = new ArrayList<Node>();
 		while( p != null || q != null){
 			num1 = 0 ; num2 = 0;
