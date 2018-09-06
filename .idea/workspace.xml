@@ -27,22 +27,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="35" />
+          <entry key="java" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="35" />
+          <entry key="JAVA" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="11437" />
+          <entry key="java" value="12598" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11437" />
+          <entry key="JAVA" value="12598" />
         </counts>
       </usages-collector>
     </session>
@@ -107,11 +107,24 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/zuochengyun/No41.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#373#383#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/zuochengyun/No39.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="336">
+              <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#455#465#0" expanded="true" />
@@ -122,11 +135,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/zuochengyun/No40.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="378">
+              <caret line="27" column="85" selection-start-line="27" selection-start-column="85" selection-end-line="27" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#422#432#0" expanded="true" />
@@ -134,15 +147,6 @@
                 <element signature="e#3668#3678#0" expanded="true" />
                 <element signature="e#4119#4129#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/No1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -201,6 +205,8 @@
         <option value="$PROJECT_DIR$/src/zuochengyun/No38.java" />
         <option value="$PROJECT_DIR$/src/zuochengyun/No39.java" />
         <option value="$PROJECT_DIR$/src/zuochengyun/No40.java" />
+        <option value="$PROJECT_DIR$/src/zuochengyun/No341.java" />
+        <option value="$PROJECT_DIR$/src/zuochengyun/No41.java" />
       </list>
     </option>
   </component>
@@ -283,7 +289,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536202690888" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536216681119" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -309,7 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No40">
+  <component name="RunManager" selected="Application.No41">
     <configuration name="No36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zuochengyun.No36" />
       <module name="leetcode" />
@@ -349,6 +355,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="No41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuochengyun.No41" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuochengyun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PokerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solid.PokerTest" />
       <module name="leetcode" />
@@ -362,33 +381,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEqualTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solid.StringEqualTest" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.StringEqualTest" />
       <item itemvalue="Application.PokerTest" />
       <item itemvalue="Application.No36" />
       <item itemvalue="Application.No39" />
       <item itemvalue="Application.No40" />
+      <item itemvalue="Application.No41" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No41" />
         <item itemvalue="Application.No40" />
         <item itemvalue="Application.No39" />
         <item itemvalue="Application.No36" />
         <item itemvalue="Application.PokerTest" />
-        <item itemvalue="Application.StringEqualTest" />
       </list>
     </recent_temporary>
   </component>
@@ -410,12 +416,12 @@
       <workItem from="1535501444986" duration="8767000" />
       <workItem from="1535594182321" duration="2904000" />
       <workItem from="1536124210757" duration="15000" />
-      <workItem from="1536142220969" duration="10476000" />
+      <workItem from="1536142220969" duration="15792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50589000" />
+    <option name="totallyTimeSpent" value="55905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -676,17 +682,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zuochengyun/No38.java">
+    <entry file="file://$PROJECT_DIR$/src/zuochengyun/No40.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="378">
+          <caret line="27" column="85" selection-start-line="27" selection-start-column="85" selection-end-line="27" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#422#432#0" expanded="true" />
+            <element signature="e#1541#1551#0" expanded="true" />
+            <element signature="e#3668#3678#0" expanded="true" />
+            <element signature="e#4119#4129#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/zuochengyun/No39.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="336">
+          <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#455#465#0" expanded="true" />
@@ -696,16 +709,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zuochengyun/No40.java">
+    <entry file="file://$PROJECT_DIR$/src/zuochengyun/No341.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="399">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuochengyun/No38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuochengyun/No41.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#422#432#0" expanded="true" />
-            <element signature="e#1541#1551#0" expanded="true" />
-            <element signature="e#3668#3678#0" expanded="true" />
-            <element signature="e#4119#4129#0" expanded="true" />
+            <element signature="e#373#383#0" expanded="true" />
           </folding>
         </state>
       </provider>
