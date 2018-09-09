@@ -158,8 +158,8 @@ public class Graph {
         Graph graph = new Graph(n);
         for(int i = 0 ; i< n-1 ;i++){
             String[] string = in.nextLine().split(" ");
-            graph.matrix[Integer.valueOf(string[0])-1][Integer.valueOf(string[1])-1] = 1;
-            graph.matrix[Integer.valueOf(string[1])-1][Integer.valueOf(string[0])-1] = 1;
+            graph.matrix[Integer.valueOf(string[0])-1][Integer.valueOf(string[1])-1] = Integer.valueOf(string[2]);
+            graph.matrix[Integer.valueOf(string[1])-1][Integer.valueOf(string[0])-1] = Integer.valueOf(string[2]);
         }
         //        int [] a1 = new int[]{0,10,MAX_WEIGHT,MAX_WEIGHT,MAX_WEIGHT,11,MAX_WEIGHT,MAX_WEIGHT,MAX_WEIGHT};
         //        int [] a2 = new int[]{10,0,18,MAX_WEIGHT,MAX_WEIGHT,MAX_WEIGHT,16,MAX_WEIGHT,12};
