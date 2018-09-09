@@ -10,11 +10,27 @@ import java.util.*;
 
 class Solution4{
     public TreeNode reConstructBinaryTree(int [] pre,int [] in) {
-        return null;
+        if(pre.length == 0 || in.length == 0 ){return null;}
+        if(pre.length != in.length){return null;}
+        HashMap<Integer , Integer> map = new HashMap<Integer , Integer>();
+        Queue<Integer> queue = new LinkedList<Integer>();
+        for(int i = 0 ; i <pre.length ; i++){
+            queue.offer(pre[i]);
+            map.put(in[i] , i);
+        }
+        TreeNode root = new TreeNode(queue.poll());
+        return root;
+    }
+    public TreeNode conNode(int[] in , int x ,int y){
+        TreeNode node = new TreeNode(0);
+        return node;
     }
 }
 public class No4 {
     public static void main(String[] args){
-
+        int[] pre = {1,2,4,7,3,5,6,8};
+        int[] mid = {4,7,2,1,5,3,8,6};
+        TreeNode result = new Solution4().reConstructBinaryTree(pre, mid);
+        System.out.println();
     }
 }
