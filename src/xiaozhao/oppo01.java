@@ -3,7 +3,7 @@ package xiaozhao;
 import java.util.*;
 
 /**
- * m次连续子数组最大和
+ * m次连续子数组最大和 ， 只AC20%，不知道问题出在哪里；
  */
 
 public class oppo01 {
