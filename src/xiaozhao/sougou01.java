@@ -3,6 +3,9 @@ package xiaozhao;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * 搜狗笔试题：第一次取最大值，后来每次取最前或最后的最大值，分给两个人，比较二者差值；
+ */
 public class sougou01 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
