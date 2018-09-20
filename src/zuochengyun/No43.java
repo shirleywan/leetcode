@@ -36,7 +36,7 @@ class Solution43 {
     }
     /**
      * 后续遍历实现
-     * 复杂度是O(m),比较高
+     * 复杂度是O(m)
      */
     public boolean isBalance2(TreeNode root){
         if(root == null){return true;}
