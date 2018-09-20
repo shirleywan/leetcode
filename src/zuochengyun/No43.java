@@ -40,8 +40,18 @@ class Solution43 {
      */
     public boolean isBalance2(TreeNode root){
         if(root == null){return true;}
-
-        return true;
+        boolean flag = true;
+        getHeight(root , 1 , flag);
+        return flag;
+    }
+    public int getHeight(TreeNode head , int level , boolean flag){
+        if(head == null) {return level ; }
+        int lh = getHeight(head.left , level + 1 , flag);
+        if(!flag) {return level ;}
+        int rh = getHeight(head.right, level + 1 , flag);
+        if(!flag) {return level ;}
+        if(Math.abs(lh - rh)>1) {flag = false;}
+        return Math.max(lh , rh);
     }
 }
 
@@ -59,7 +69,7 @@ public class No43 {
         n3.left = n4; n3.right = n5;
         
         Solution43 solution = new Solution43();
-        System.out.println(solution.isBalance(root));
+        System.out.println(solution.isBalance2(root));
 
     }
 }
