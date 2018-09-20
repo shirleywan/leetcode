@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * 反转二叉树
+ * 递归实现反转二叉树
  *
  */
 
