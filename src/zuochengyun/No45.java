@@ -1,7 +1,7 @@
 package zuochengyun;
 
 /**
- * 根据后序数组重建搜索二叉树
+ * 根据后序数组重建搜索二叉树 -- unfinished
  */
 import zuochengyun.util.TreeNode;
 
@@ -15,12 +15,6 @@ class Solution45{
             nums[i] = list.get(i);
         }
         TreeNode root = new TreeNode(nums[nums.length-1]);
-        int i = 0;
-        for(i = 0 ; i < nums.length ; i++){
-            if(nums[i] > nums[nums.length-1]){break;}
-        }
-//        root.left = findNext(nums , 0 , i-1);
-//        root.right = findNext(nums , i , nums.length-1);
         return root;
     }
     public boolean findNext(int[] nums , int begin , int end){
