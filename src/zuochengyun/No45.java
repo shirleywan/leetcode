@@ -1,7 +1,7 @@
 package zuochengyun;
 
 /**
- * 根据后序数组重建搜索二叉树 -- unfinished
+ * 根据后序数组重建搜索二叉树
  */
 import zuochengyun.util.TreeNode;
 
@@ -15,7 +15,26 @@ class Solution45{
             nums[i] = list.get(i);
         }
         TreeNode root = new TreeNode(nums[nums.length-1]);
-        return root;
+        return postToBST(nums , 0 , nums.length-1);
+    }
+    public TreeNode postToBST(int[] postArr , int start , int end){
+        if(start > end){
+            return null;
+        }
+        TreeNode head = new TreeNode(postArr[end]);
+        int less = -1  ;
+        int more = end ;
+        for( int i = start ; i < end ; i ++){
+            if(postArr[end] > postArr[i] ){
+                less = i; //front part's end
+            }
+            else{
+                more = more == end ? i : more; // back part's start
+            }
+        }
+        head.left  = postToBST(postArr , start , less);
+        head.right = postToBST(postArr , more , end-1);
+        return head;
     }
     public boolean findNext(int[] nums , int begin , int end){
         if(begin == end){return true;}
@@ -61,6 +80,9 @@ public class No45 {
 
         ArrayList<Integer> list = new ArrayList<Integer>();
         Solution45 solution = new Solution45();
-        System.out.println(solution.backOrder(root , list));
+        TreeNode result = solution.backTree(solution.backOrder(root , list));
+        System.out.println(result.value);
+        ArrayList<Integer> newlist = new ArrayList<Integer>();
+        System.out.println(solution.backOrder(result , newlist));
     }
 }
