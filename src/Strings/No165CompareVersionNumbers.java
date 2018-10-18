@@ -1,6 +1,6 @@
 package Strings;
 
-import java.util.Arrays;
+import java.util.*;
 
 /**
  * 165. Compare Version Numbers
