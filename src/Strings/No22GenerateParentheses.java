@@ -17,6 +17,10 @@ import java.util.List;
  *      ]
  */
 class Solution22 {
+    /**
+     * 使用递归
+     * 解析：https://blog.csdn.net/Liluyuan5323/article/details/78252799
+     */
     public List<String> generateParenthesis(int n) {
         List<String> list = new ArrayList<String>();
         backtrack(list, "", 0, 0, n);
