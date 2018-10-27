@@ -16,12 +16,12 @@
     <session id="-926758042">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
@@ -32,45 +32,33 @@
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="12" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.opened" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="89" />
+          <entry key="java" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="89" />
+          <entry key="JAVA" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="39280" />
+          <entry key="java" value="39579" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="39280" />
+          <entry key="JAVA" value="39579" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/No8StringToInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Strings/No49GroupAnagrams.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,22 +113,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Strings/No17LetterCombinationsOfAPhoneNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="82" column="24" lean-forward="true" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+            <state relative-caret-position="1722">
+              <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stack/No225ImplementStackUsingQueues.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#887#888#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Stack/No225ImplementStackUsingQueues.java">
+        <entry file="file://$PROJECT_DIR$/src/Stack/No232ImplementQueueUsingStacks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="68" column="5" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="68" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#887#888#0" expanded="true" />
-                <element signature="e#908#909#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="738">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
@@ -181,7 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/zuochengyun/No36.java" />
         <option value="$PROJECT_DIR$/src/zuochengyun/No37.java" />
         <option value="$PROJECT_DIR$/src/zuochengyun/No38.java" />
         <option value="$PROJECT_DIR$/src/zuochengyun/No39.java" />
@@ -232,6 +228,7 @@
         <option value="$PROJECT_DIR$/src/Strings/No22GenerateParentheses.java" />
         <option value="$PROJECT_DIR$/src/Strings/No17LetterCombinationsOfAPhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/Stack/No225ImplementStackUsingQueues.java" />
+        <option value="$PROJECT_DIR$/src/Stack/No232ImplementQueueUsingStacks.java" />
       </list>
     </option>
   </component>
@@ -258,6 +255,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,19 +270,22 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540435788605" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540608136782" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -310,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No225ImplementStackUsingQueues">
+  <component name="RunManager" selected="Application.No232ImplementQueueUsingStacks">
     <configuration name="No151ReverseWordsInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Strings.No151ReverseWordsInAString" />
       <module name="leetcode" />
@@ -363,12 +366,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No91DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.No91DecodeWays" />
+    <configuration name="No232ImplementQueueUsingStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.No232ImplementQueueUsingStacks" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,19 +380,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.No91DecodeWays" />
       <item itemvalue="Application.No22GenerateParentheses" />
       <item itemvalue="Application.No151ReverseWordsInAString" />
       <item itemvalue="Application.No17LetterCombinationsOfAPhoneNumber" />
       <item itemvalue="Application.No225ImplementStackUsingQueues" />
+      <item itemvalue="Application.No232ImplementQueueUsingStacks" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No232ImplementQueueUsingStacks" />
         <item itemvalue="Application.No225ImplementStackUsingQueues" />
         <item itemvalue="Application.No17LetterCombinationsOfAPhoneNumber" />
         <item itemvalue="Application.No151ReverseWordsInAString" />
         <item itemvalue="Application.No22GenerateParentheses" />
-        <item itemvalue="Application.No91DecodeWays" />
       </list>
     </recent_temporary>
   </component>
@@ -435,18 +438,19 @@
       <workItem from="1539916637194" duration="10478000" />
       <workItem from="1540344571810" duration="2377000" />
       <workItem from="1540347703561" duration="11538000" />
-      <workItem from="1540432919510" duration="1863000" />
+      <workItem from="1540432919510" duration="2047000" />
+      <workItem from="1540604419950" duration="1899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196211000" />
+    <option name="totallyTimeSpent" value="198294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="540" y="18" width="1356" height="1030" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21141975" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21450618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -483,13 +487,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/zuochengyun/No35.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="38" selection-start-line="17" selection-start-column="8" selection-end-line="26" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/zuochengyun/No36.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -757,17 +754,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#59#60#0" expanded="true" />
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stack.java" />
     <entry file="file://$PROJECT_DIR$/src/Strings/No8StringToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -819,6 +809,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/No17LetterCombinationsOfAPhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Strings/No151ReverseWordsInAString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
@@ -836,29 +833,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/No17LetterCombinationsOfAPhoneNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="82" column="24" lean-forward="true" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stack/No225ImplementStackUsingQueues.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="68" column="5" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="68" selection-end-column="5" />
+        <state relative-caret-position="336">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#887#888#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stack/No232ImplementQueueUsingStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
