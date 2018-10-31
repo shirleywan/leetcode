@@ -22,23 +22,48 @@ import utils.*;
  *   [15,7]
  * ]
  */
-class Solution {
+class Solution103 {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        if(root == null ){return null;}
-        if(root.left == null && root.right == null) {
-            List<List<Integer>> totallist = new ArrayList<List<Integer>>();
-            List<Integer> list = new ArrayList<Integer>();
-            list.add(root.val);
-            totallist.add(list);
-            return totallist;
+        List<List<Integer>> totallist = new ArrayList<List<Integer>>();
+        if(root == null ){return totallist;}
+        Stack<TreeNode> stack1 = new Stack<TreeNode>();
+        Stack<TreeNode> stack2 = new Stack<TreeNode>();
+        stack1.push(root);
+        while(!stack1.isEmpty() || !stack2.isEmpty()){
+            List<Integer> list1 = new ArrayList<Integer>();
+            while(!stack1.isEmpty()){
+                TreeNode node = stack1.pop();
+                list1.add(node.val);
+                if(node.left != null){stack2.push(node.left);}
+                if(node.right!= null){stack2.push(node.right);}
+            }
+            if(list1.size() != 0) totallist.add(list1);
+            List<Integer> list2 = new ArrayList<Integer>();
+            while(!stack2.isEmpty()){
+                TreeNode node = stack2.pop();
+                list2.add(node.val);
+                if(node.right!= null){stack1.push(node.right);}
+                if(node.left != null){stack1.push(node.left);}
+            }
+            if(list2.size() != 0) totallist.add(list2);
         }
-        return null;
+        return totallist;
     }
 }
 public class No103BinaryTreeZigzagLevelOrderTraversal {
     public static void main(String[] args){
-        List<String> list = new ArrayList<>();
-        list.add("3"); list.add("9"); list.add("20"); list.add("null");
-        list.add("null"); list.add("15"); list.add("7");
+        TreeNode root = new TreeNode(3);
+        TreeNode n1 = new TreeNode(9);
+        TreeNode n2 = new TreeNode(20);
+        TreeNode n3 = new TreeNode(15);
+        TreeNode n4 = new TreeNode(7);
+        TreeNode n5 = new TreeNode(8);
+        TreeNode n6 = new TreeNode(10);
+
+        root.left = n1; root.right = n2;
+        n2.left = n3; n2.right = n4;
+        n1.left = n5;n1.right = n6;
+
+        System.out.println(new Solution103().zigzagLevelOrder(root));
     }
 }
