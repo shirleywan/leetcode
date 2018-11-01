@@ -16,7 +16,7 @@
     <session id="-926758042">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.29" value="1" />
@@ -30,44 +30,35 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.7" value="4" />
-          <entry key="project.open.time.8" value="15" />
+          <entry key="project.open.time.8" value="16" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="40" />
+          <entry key="project.opened" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="96" />
+          <entry key="java" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="96" />
+          <entry key="JAVA" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="41793" />
+          <entry key="java" value="42098" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="41793" />
+          <entry key="JAVA" value="42098" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/No17LetterCombinationsOfAPhoneNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1722">
-              <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Stack/No225ImplementStackUsingQueues.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,15 +100,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Stack/No94BinaryTreeInorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="655">
+              <caret line="55" column="68" lean-forward="true" selection-start-line="55" selection-start-column="68" selection-end-line="55" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#185#194#0" expanded="true" />
-                <element signature="e#279#289#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Stack/No144BinaryTreePreorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#493#502#0" expanded="true" />
+                <element signature="e#586#596#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,12 +129,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Stack/No103BinaryTreeZigzagLevelOrderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="66" column="69" lean-forward="true" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="69" />
+            <state relative-caret-position="1344">
+              <caret line="66" column="69" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1016#1026#0" expanded="true" />
-                <element signature="e#1072#1082#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -182,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/zuochengyun/No41.java" />
         <option value="$PROJECT_DIR$/src/zuochengyun/No42.java" />
         <option value="$PROJECT_DIR$/src/zuochengyun/No14.java" />
         <option value="$PROJECT_DIR$/src/zuochengyun/No11.java" />
@@ -233,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/utils/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/Stack/No103BinaryTreeZigzagLevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/Stack/No94BinaryTreeInorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/Stack/No144BinaryTreePreorderTraversal.java" />
       </list>
     </option>
   </component>
@@ -249,7 +250,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="458" />
+    <option name="x" value="619" />
+    <option name="y" value="2" />
     <option name="width" value="1356" />
     <option name="height" value="1031" />
   </component>
@@ -258,6 +260,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,15 +283,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540992550813" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541055886215" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -316,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No94BinaryTreeInorderTraversal">
+  <component name="RunManager" selected="Application.No144BinaryTreePreorderTraversal">
     <configuration name="No103BinaryTreeZigzagLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.No103BinaryTreeZigzagLevelOrderTraversal" />
       <module name="leetcode" />
@@ -330,8 +332,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No155MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.No155MinStack" />
+    <configuration name="No144BinaryTreePreorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.No144BinaryTreePreorderTraversal" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -343,8 +345,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No232ImplementQueueUsingStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.No232ImplementQueueUsingStacks" />
+    <configuration name="No155MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.No155MinStack" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -383,19 +385,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.No232ImplementQueueUsingStacks" />
       <item itemvalue="Application.No155MinStack" />
       <item itemvalue="Application.No496NextGreaterElementI" />
       <item itemvalue="Application.No103BinaryTreeZigzagLevelOrderTraversal" />
       <item itemvalue="Application.No94BinaryTreeInorderTraversal" />
+      <item itemvalue="Application.No144BinaryTreePreorderTraversal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No144BinaryTreePreorderTraversal" />
         <item itemvalue="Application.No94BinaryTreeInorderTraversal" />
         <item itemvalue="Application.No103BinaryTreeZigzagLevelOrderTraversal" />
         <item itemvalue="Application.No496NextGreaterElementI" />
         <item itemvalue="Application.No155MinStack" />
-        <item itemvalue="Application.No232ImplementQueueUsingStacks" />
       </list>
     </recent_temporary>
   </component>
@@ -447,18 +449,19 @@
       <workItem from="1540776630691" duration="3508000" />
       <workItem from="1540795646871" duration="814000" />
       <workItem from="1540907243584" duration="1150000" />
-      <workItem from="1540973933904" duration="4471000" />
+      <workItem from="1540973933904" duration="4498000" />
+      <workItem from="1541055556025" duration="301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209358000" />
+    <option name="totallyTimeSpent" value="209686000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="458" y="0" width="1356" height="1031" extended-state="0" />
+    <frame x="619" y="2" width="1356" height="1031" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22993827" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2337963" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -467,7 +470,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28985506" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28985506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39868566" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -495,13 +498,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/offer/util/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/NumberFormatException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -769,9 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -816,6 +809,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stack/No103BinaryTreeZigzagLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="66" column="69" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -840,26 +843,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/No103BinaryTreeZigzagLevelOrderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/Stack/No94BinaryTreeInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="66" column="69" lean-forward="true" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="69" />
+        <state relative-caret-position="655">
+          <caret line="55" column="68" lean-forward="true" selection-start-line="55" selection-start-column="68" selection-end-line="55" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1016#1026#0" expanded="true" />
-            <element signature="e#1072#1082#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/No94BinaryTreeInorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/Stack/No144BinaryTreePreorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="546">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#185#194#0" expanded="true" />
-            <element signature="e#279#289#0" expanded="true" />
+            <element signature="e#493#502#0" expanded="true" />
+            <element signature="e#586#596#0" expanded="true" />
           </folding>
         </state>
       </provider>
