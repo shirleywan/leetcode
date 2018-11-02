@@ -16,13 +16,13 @@
     <session id="-926758042">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
+          <entry key="project.closed" value="33" />
           <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="2" />
-          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.40" value="1" />
@@ -32,47 +32,33 @@
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="16" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="41" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="97" />
+          <entry key="java" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="97" />
+          <entry key="JAVA" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="42098" />
+          <entry key="java" value="43040" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="42098" />
+          <entry key="JAVA" value="43040" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stack/No225ImplementStackUsingQueues.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#887#888#0" expanded="true" />
-                <element signature="e#918#919#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Stack/No232ImplementQueueUsingStacks.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,8 +89,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Stack/No94BinaryTreeInorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="655">
-              <caret line="55" column="68" lean-forward="true" selection-start-line="55" selection-start-column="68" selection-end-line="55" selection-end-column="68" />
+            <state relative-caret-position="466">
+              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stack/No144BinaryTreePreorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="959">
+              <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,14 +111,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Stack/No144BinaryTreePreorderTraversal.java">
+        <entry file="file://$PROJECT_DIR$/src/Stack/No173BinarySearchTreeIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            <state relative-caret-position="336">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#493#502#0" expanded="true" />
-                <element signature="e#586#596#0" expanded="true" />
+                <element signature="e#395#404#0" expanded="true" />
+                <element signature="e#450#460#0" expanded="true" />
+                <element signature="e#506#516#0" expanded="true" />
+                <element signature="e#1759#1760#0" expanded="true" />
+                <element signature="e#1787#1788#0" expanded="true" />
+                <element signature="e#1856#1857#0" expanded="true" />
+                <element signature="e#1880#1881#0" expanded="true" />
+                <element signature="e#2414#2415#0" expanded="true" />
+                <element signature="e#2453#2454#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -183,7 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/zuochengyun/No42.java" />
         <option value="$PROJECT_DIR$/src/zuochengyun/No14.java" />
         <option value="$PROJECT_DIR$/src/zuochengyun/No11.java" />
         <option value="$PROJECT_DIR$/src/xiaozhao/meituan01.java" />
@@ -234,6 +238,7 @@
         <option value="$PROJECT_DIR$/src/Stack/No103BinaryTreeZigzagLevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/Stack/No94BinaryTreeInorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/Stack/No144BinaryTreePreorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/Stack/No173BinarySearchTreeIterator.java" />
       </list>
     </option>
   </component>
@@ -250,10 +255,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="619" />
-    <option name="y" value="2" />
+    <option name="x" value="381" />
     <option name="width" value="1356" />
-    <option name="height" value="1031" />
+    <option name="height" value="999" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -279,6 +283,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Stack" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="No94BinaryTreeInorderTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -290,7 +301,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541055886215" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541149524425" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -318,7 +329,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No144BinaryTreePreorderTraversal">
+  <component name="RunManager" selected="Application.No173BinarySearchTreeIterator">
     <configuration name="No103BinaryTreeZigzagLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.No103BinaryTreeZigzagLevelOrderTraversal" />
       <module name="leetcode" />
@@ -345,8 +356,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No155MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.No155MinStack" />
+    <configuration name="No173BinarySearchTreeIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.No173BinarySearchTreeIterator" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -385,19 +396,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.No155MinStack" />
       <item itemvalue="Application.No496NextGreaterElementI" />
       <item itemvalue="Application.No103BinaryTreeZigzagLevelOrderTraversal" />
       <item itemvalue="Application.No94BinaryTreeInorderTraversal" />
       <item itemvalue="Application.No144BinaryTreePreorderTraversal" />
+      <item itemvalue="Application.No173BinarySearchTreeIterator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No173BinarySearchTreeIterator" />
         <item itemvalue="Application.No144BinaryTreePreorderTraversal" />
         <item itemvalue="Application.No94BinaryTreeInorderTraversal" />
         <item itemvalue="Application.No103BinaryTreeZigzagLevelOrderTraversal" />
         <item itemvalue="Application.No496NextGreaterElementI" />
-        <item itemvalue="Application.No155MinStack" />
       </list>
     </recent_temporary>
   </component>
@@ -450,18 +461,19 @@
       <workItem from="1540795646871" duration="814000" />
       <workItem from="1540907243584" duration="1150000" />
       <workItem from="1540973933904" duration="4498000" />
-      <workItem from="1541055556025" duration="301000" />
+      <workItem from="1541055556025" duration="378000" />
+      <workItem from="1541140153119" duration="6342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209686000" />
+    <option name="totallyTimeSpent" value="216105000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="619" y="2" width="1356" height="1031" extended-state="0" />
+    <frame x="381" y="0" width="1356" height="999" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2337963" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23765433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -470,7 +482,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28985506" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28901735" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39868566" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -498,13 +510,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/offer/No1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -843,24 +848,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/No94BinaryTreeInorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/Stack/No144BinaryTreePreorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="55" column="68" lean-forward="true" selection-start-line="55" selection-start-column="68" selection-end-line="55" selection-end-column="68" />
+        <state relative-caret-position="959">
+          <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/No144BinaryTreePreorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/Stack/No94BinaryTreeInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="466">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#493#502#0" expanded="true" />
-            <element signature="e#586#596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stack/No173BinarySearchTreeIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#395#404#0" expanded="true" />
+            <element signature="e#450#460#0" expanded="true" />
+            <element signature="e#506#516#0" expanded="true" />
+            <element signature="e#1759#1760#0" expanded="true" />
+            <element signature="e#1787#1788#0" expanded="true" />
+            <element signature="e#1856#1857#0" expanded="true" />
+            <element signature="e#1880#1881#0" expanded="true" />
+            <element signature="e#2414#2415#0" expanded="true" />
+            <element signature="e#2453#2454#0" expanded="true" />
           </folding>
         </state>
       </provider>
