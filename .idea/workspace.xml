@@ -33,29 +33,29 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.7" value="6" />
-          <entry key="project.open.time.8" value="19" />
+          <entry key="project.open.time.8" value="20" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="50" />
+          <entry key="project.opened" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="112" />
+          <entry key="java" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="112" />
+          <entry key="JAVA" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="51305" />
+          <entry key="java" value="51692" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="51305" />
+          <entry key="JAVA" value="51692" />
         </counts>
       </usages-collector>
     </session>
@@ -117,17 +117,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Strings/No227BasicCalculatorII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="19" column="65" lean-forward="true" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+            <state relative-caret-position="399">
+              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Strings/No459RepeatedSubstringPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Strings/No459RepeatedSubstringPattern.java">
+        <entry file="file://$PROJECT_DIR$/src/Strings/No434NumberOfSegmentsInAString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+            <state relative-caret-position="252">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <element signature="e#849#850#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -147,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/solid/reverseStringIter.java" />
         <option value="$PROJECT_DIR$/src/xiaozhao/sougou01.java" />
         <option value="$PROJECT_DIR$/src/zuochengyun/No43.java" />
         <option value="$PROJECT_DIR$/src/zuochengyun/No44.java" />
@@ -198,6 +210,7 @@
         <option value="$PROJECT_DIR$/src/Stack/No556NextGreaterElementIII.java" />
         <option value="$PROJECT_DIR$/src/Strings/No227BasicCalculatorII.java" />
         <option value="$PROJECT_DIR$/src/Strings/No459RepeatedSubstringPattern.java" />
+        <option value="$PROJECT_DIR$/src/Strings/No434NumberOfSegmentsInAString.java" />
       </list>
     </option>
   </component>
@@ -213,11 +226,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="478" />
-    <option name="y" value="75" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="673" />
+    <option name="y" value="28" />
     <option name="width" value="1179" />
-    <option name="height" value="1047" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -246,15 +259,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542263964856" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542428932193" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -282,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No459RepeatedSubstringPattern">
+  <component name="RunManager" selected="Application.No434NumberOfSegmentsInAString">
     <configuration name="No227BasicCalculatorII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Strings.No227BasicCalculatorII" />
       <module name="leetcode" />
@@ -296,12 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No456132Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.No456132Pattern" />
+    <configuration name="No434NumberOfSegmentsInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.No434NumberOfSegmentsInAString" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,19 +362,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.No456132Pattern" />
       <item itemvalue="Application.No682BaseballGame" />
       <item itemvalue="Application.No503NextGreaterElementII" />
       <item itemvalue="Application.No227BasicCalculatorII" />
       <item itemvalue="Application.No459RepeatedSubstringPattern" />
+      <item itemvalue="Application.No434NumberOfSegmentsInAString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No434NumberOfSegmentsInAString" />
         <item itemvalue="Application.No459RepeatedSubstringPattern" />
         <item itemvalue="Application.No227BasicCalculatorII" />
         <item itemvalue="Application.No503NextGreaterElementII" />
         <item itemvalue="Application.No682BaseballGame" />
-        <item itemvalue="Application.No456132Pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -424,17 +437,18 @@
       <workItem from="1542032155820" duration="3732000" />
       <workItem from="1542175371600" duration="4339000" />
       <workItem from="1542245099591" duration="7090000" />
+      <workItem from="1542421011326" duration="2790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270580000" />
+    <option name="totallyTimeSpent" value="273370000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="478" y="75" width="1179" height="1047" extended-state="0" />
+    <frame x="673" y="28" width="1179" height="1046" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22430742" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22788204" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -443,7 +457,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19824754" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19736843" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -471,13 +485,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/zuochengyun/No44.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/zuochengyun/No45.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1638">
@@ -811,8 +818,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Strings/No227BasicCalculatorII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="19" column="65" lean-forward="true" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+        <state relative-caret-position="399">
+          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -820,6 +827,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="499">
           <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/No434NumberOfSegmentsInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
