@@ -23,6 +23,9 @@ import java.util.*;
  * What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?
  */
 class Solution350 {
+    /**
+     * hashmap
+     */
     public int[] intersect(int[] nums1, int[] nums2) {
         if(nums1== null || nums1.length==0 || nums2 == null || nums2.length == 0) {
             int[] result = {};
@@ -48,6 +51,36 @@ class Solution350 {
             result[i] = list.get(i);
         }
         return result;
+    }
+    /**
+     * method 2:array sort
+     */
+    public int[] intersect2(int[] nums1 , int[] nums2){
+        Arrays.sort(nums1);
+        Arrays.sort(nums2);
+        int pnt1 = 0;
+        int pnt2 = 0;
+        ArrayList<Integer> myList = new ArrayList<Integer>();
+        while((pnt1 < nums1.length) &&(pnt2< nums2.length)){
+            if(nums1[pnt1]<nums2[pnt2]){
+                pnt1++;
+            }
+            else{
+                if(nums1[pnt1]>nums2[pnt2]){
+                    pnt2++;
+                }
+                else{
+                    myList.add(nums1[pnt1]);
+                    pnt1++;
+                    pnt2++;
+                }
+            }
+        }
+        int[] res = new int[myList.size()];
+        for(int i = 0; i<res.length; i++){
+            res[i] = (Integer)myList.get(i);
+        }
+        return res;
     }
 }
 public class No350IntersectionOfTwoArrayII {
