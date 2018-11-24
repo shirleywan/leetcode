@@ -47,7 +47,7 @@ class Solution274 {
 }
 public class No274H_Index {
     public static void main(String[] args){
-        int[] nums = {0};
+        int[] nums = {3,3,5,5,7};
         System.out.println(new Solution274().hIndex(nums));
     }
 }
