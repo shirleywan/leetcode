@@ -19,18 +19,18 @@ class Solution86 {
         ListNode q = p.next;
         while(q != null){
             if(q.val >= x){
-                ListNode m = q;
-                while( m .next != null && m.next.val >= x) { m = m.next ; }
-                ListNode n = m.next;
-                if( n.next != null){
-                    m.next = n.next;
+                if(q.next == null) break;
+                while( q .next != null && q.next.val >= x) { q = q.next ; }
+                ListNode n = q.next;
+                if( n != null){
+                    q.next = n.next;
                 }
-                else{ m.next = null;}
+                else{ q.next = null;}
 //                m.next = (n.next != null ? n.next : null);
+                n.next = p.next;
                 p.next = n;
-                n.next = q;
                 p = p.next;
-                q = n;
+                q = q.next;
             }
             else{
                 q = q.next;
@@ -38,6 +38,46 @@ class Solution86 {
             }
         }
         return first.next;
+    }
+
+    /**
+     * good method
+     */
+    public ListNode partition1(ListNode head, int x) {
+        if(head == null || head.next == null)
+            return head;
+
+        ListNode curr = head;
+        ListNode prev = null;
+        ListNode last = head;
+        while (last.next != null) {
+            last = last.next;
+        }
+
+        boolean moveHead = true;
+        ListNode firstMoved = null;
+        while (curr != null && curr.next != null && curr != firstMoved) {
+            ListNode next = curr.next;
+            if (curr.val >= x) {
+                if (firstMoved == null)
+                    firstMoved = curr;
+                last.next = curr;
+                curr.next = null;
+                last = curr;
+                if (prev != null)
+                    prev.next = next;
+            } else {
+                moveHead = false;
+                prev = curr;
+            }
+
+            curr = next;
+            if (moveHead) {
+                head = curr;
+            }
+        }
+
+        return head;
     }
 }
 public class No86PartitionList {
@@ -50,7 +90,7 @@ public class No86PartitionList {
         ListNode n6 = new ListNode(2);
         n1.next = n2 ; n2.next = n3 ; n3.next = n4 ; n4.next = n5; n5.next = n6 ;
 
-        ListNode result = new Solution86().partition(n1 , 3);
+        ListNode result = new Solution86().partition(n1 , 0);
         while(result != null){
             System.out.println(result.val);
             result = result.next;
