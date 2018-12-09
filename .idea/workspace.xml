@@ -35,29 +35,29 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.7" value="12" />
-          <entry key="project.open.time.8" value="26" />
+          <entry key="project.open.time.8" value="27" />
           <entry key="project.open.time.9" value="6" />
-          <entry key="project.opened" value="69" />
+          <entry key="project.opened" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="141" />
+          <entry key="java" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="141" />
+          <entry key="JAVA" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="61146" />
+          <entry key="java" value="61863" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="61146" />
+          <entry key="JAVA" value="61863" />
         </counts>
       </usages-collector>
     </session>
@@ -97,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TwoPointer/No61RotateList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="87" column="9" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="87" selection-end-column="9" />
+            <state relative-caret-position="1827">
+              <caret line="87" column="9" selection-start-line="77" selection-start-column="8" selection-end-line="87" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -107,16 +107,25 @@
         <entry file="file://$PROJECT_DIR$/src/TwoPointer/No86PartitionList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TwoPointer/No142LinkedListCycleII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TwoPointer/No142LinkedListCycleII.java">
+        <entry file="file://$PROJECT_DIR$/src/TwoPointer/No209MinimunSizeSubarraySum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="54" column="36" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="36" />
+            <state relative-caret-position="138">
+              <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -136,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Strings/No165CompareVersionNumbers.java" />
         <option value="$PROJECT_DIR$/src/Strings/No43MultiplyStrings.java" />
         <option value="$PROJECT_DIR$/src/Strings/No91DecodeWays.java" />
         <option value="$PROJECT_DIR$/src/Strings/No151ReverseWordsInAString.java" />
@@ -187,6 +195,7 @@
         <option value="$PROJECT_DIR$/src/TwoPointer/No61RotateList.java" />
         <option value="$PROJECT_DIR$/src/TwoPointer/No86PartitionList.java" />
         <option value="$PROJECT_DIR$/src/TwoPointer/No142LinkedListCycleII.java" />
+        <option value="$PROJECT_DIR$/src/TwoPointer/No209MinimunSizeSubarraySum.java" />
       </list>
     </option>
   </component>
@@ -213,6 +222,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -243,14 +254,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544257126509" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544336914716" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -278,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No142LinkedListCycleII">
+  <component name="RunManager" selected="Application.No209MinimunSizeSubarraySum">
     <configuration name="No142LinkedListCycleII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TwoPointer.No142LinkedListCycleII" />
       <module name="leetcode" />
@@ -305,8 +314,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No19RemoveNthNodeFromEndOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.No19RemoveNthNodeFromEndOfList" />
+    <configuration name="No209MinimunSizeSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointer.No209MinimunSizeSubarraySum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -345,19 +354,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.No19RemoveNthNodeFromEndOfList" />
       <item itemvalue="Application.No163SumClosest" />
       <item itemvalue="Application.No61RotateList" />
       <item itemvalue="Application.No86PartitionList" />
       <item itemvalue="Application.No142LinkedListCycleII" />
+      <item itemvalue="Application.No209MinimunSizeSubarraySum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No209MinimunSizeSubarraySum" />
         <item itemvalue="Application.No142LinkedListCycleII" />
         <item itemvalue="Application.No86PartitionList" />
         <item itemvalue="Application.No61RotateList" />
         <item itemvalue="Application.No163SumClosest" />
-        <item itemvalue="Application.No19RemoveNthNodeFromEndOfList" />
       </list>
     </recent_temporary>
   </component>
@@ -439,17 +448,18 @@
       <workItem from="1543973126800" duration="2748000" />
       <workItem from="1544080380700" duration="17152000" />
       <workItem from="1544253487794" duration="3421000" />
+      <workItem from="1544319643956" duration="4428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="346037000" />
+    <option name="totallyTimeSpent" value="350465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="460" y="3" width="1391" height="1078" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26220888" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26596543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -458,7 +468,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1970339" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1970339" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -486,7 +496,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/utils.java" />
     <entry file="file://$PROJECT_DIR$/src/Strings/No17LetterCombinationsOfAPhoneNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1722">
@@ -775,6 +784,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwoPointer/No141LinkedListCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="65" column="59" selection-start-line="65" selection-start-column="59" selection-end-line="65" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwoPointer/No19RemoveNthNodeFromEndOfList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="65" column="51" selection-start-line="65" selection-start-column="51" selection-end-line="65" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashTable/No350IntersectionOfTwoArrayII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1869">
@@ -799,38 +822,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoPointer/No141LinkedListCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="65" column="59" selection-start-line="65" selection-start-column="59" selection-end-line="65" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoPointer/No19RemoveNthNodeFromEndOfList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="65" column="51" selection-start-line="65" selection-start-column="51" selection-end-line="65" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TwoPointer/No61RotateList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="87" column="9" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="87" selection-end-column="9" />
+        <state relative-caret-position="1827">
+          <caret line="87" column="9" selection-start-line="77" selection-start-column="8" selection-end-line="87" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TwoPointer/No86PartitionList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TwoPointer/No142LinkedListCycleII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="54" column="36" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="36" />
+        <state relative-caret-position="201">
+          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwoPointer/No209MinimunSizeSubarraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
         </state>
       </provider>
     </entry>
