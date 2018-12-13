@@ -16,8 +16,9 @@
     <session id="-926758042">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="62" />
+          <entry key="project.closed" value="65" />
           <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="2" />
@@ -35,44 +36,35 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.7" value="12" />
-          <entry key="project.open.time.8" value="27" />
-          <entry key="project.open.time.9" value="6" />
-          <entry key="project.opened" value="70" />
+          <entry key="project.open.time.8" value="29" />
+          <entry key="project.open.time.9" value="7" />
+          <entry key="project.opened" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="142" />
+          <entry key="java" value="147" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="142" />
+          <entry key="JAVA" value="147" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="61863" />
+          <entry key="java" value="64531" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="61863" />
+          <entry key="JAVA" value="64531" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HashTable/No350IntersectionOfTwoArrayII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1869">
-              <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HashTable/No349IntersectionOfTwoArrays.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,17 +107,63 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TwoPointer/No142LinkedListCycleII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+            <state relative-caret-position="630">
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TwoPointer/No209MinimunSizeSubarraySum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TwoPointer/No75SortColors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="819">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TwoPointer/No153Sum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tree/No100SameTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="54" column="83" selection-start-line="54" selection-start-column="83" selection-end-line="54" selection-end-column="83" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TwoPointer/No209MinimunSizeSubarraySum.java">
+        <entry file="file://$PROJECT_DIR$/src/TwoPointer/No287FindTheDuplicateNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="68" column="19" lean-forward="true" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+            <state relative-caret-position="315">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <folding>
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,10 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Strings/No43MultiplyStrings.java" />
-        <option value="$PROJECT_DIR$/src/Strings/No91DecodeWays.java" />
-        <option value="$PROJECT_DIR$/src/Strings/No151ReverseWordsInAString.java" />
-        <option value="$PROJECT_DIR$/src/Strings/No22GenerateParentheses.java" />
         <option value="$PROJECT_DIR$/src/Strings/No17LetterCombinationsOfAPhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/Stack/No225ImplementStackUsingQueues.java" />
         <option value="$PROJECT_DIR$/src/Stack/No232ImplementQueueUsingStacks.java" />
@@ -196,6 +230,10 @@
         <option value="$PROJECT_DIR$/src/TwoPointer/No86PartitionList.java" />
         <option value="$PROJECT_DIR$/src/TwoPointer/No142LinkedListCycleII.java" />
         <option value="$PROJECT_DIR$/src/TwoPointer/No209MinimunSizeSubarraySum.java" />
+        <option value="$PROJECT_DIR$/src/TwoPointer/No75SortColors.java" />
+        <option value="$PROJECT_DIR$/src/TwoPointer/No153Sum.java" />
+        <option value="$PROJECT_DIR$/src/Tree/No100SameTree.java" />
+        <option value="$PROJECT_DIR$/src/TwoPointer/No287FindTheDuplicateNumber.java" />
       </list>
     </option>
   </component>
@@ -211,9 +249,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="460" />
-    <option name="y" value="3" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="357" />
+    <option name="y" value="2" />
     <option name="width" value="1391" />
     <option name="height" value="1078" />
   </component>
@@ -222,9 +260,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,13 +281,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="TwoPointer" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TwoPointer" type="462c0819:PsiDirectoryNode" />
-              <item name="No141LinkedListCycle.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -259,7 +290,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544336917702" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544668809971" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -287,7 +318,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No209MinimunSizeSubarraySum">
+  <component name="RunManager" selected="Application.No100SameTree">
+    <configuration name="No100SameTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.No100SameTree" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="No142LinkedListCycleII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TwoPointer.No142LinkedListCycleII" />
       <module name="leetcode" />
@@ -301,8 +345,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No163SumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.No163SumClosest" />
+    <configuration name="No153Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointer.No153Sum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -327,21 +371,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No61RotateList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.No61RotateList" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TwoPointer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No86PartitionList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.No86PartitionList" />
+    <configuration name="No75SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointer.No75SortColors" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -354,19 +385,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.No163SumClosest" />
-      <item itemvalue="Application.No61RotateList" />
-      <item itemvalue="Application.No86PartitionList" />
       <item itemvalue="Application.No142LinkedListCycleII" />
       <item itemvalue="Application.No209MinimunSizeSubarraySum" />
+      <item itemvalue="Application.No75SortColors" />
+      <item itemvalue="Application.No153Sum" />
+      <item itemvalue="Application.No100SameTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No100SameTree" />
+        <item itemvalue="Application.No153Sum" />
+        <item itemvalue="Application.No75SortColors" />
         <item itemvalue="Application.No209MinimunSizeSubarraySum" />
         <item itemvalue="Application.No142LinkedListCycleII" />
-        <item itemvalue="Application.No86PartitionList" />
-        <item itemvalue="Application.No61RotateList" />
-        <item itemvalue="Application.No163SumClosest" />
       </list>
     </recent_temporary>
   </component>
@@ -449,17 +480,21 @@
       <workItem from="1544080380700" duration="17152000" />
       <workItem from="1544253487794" duration="3421000" />
       <workItem from="1544319643956" duration="4454000" />
+      <workItem from="1544410281870" duration="4705000" />
+      <workItem from="1544494027959" duration="8471000" />
+      <workItem from="1544600234065" duration="1083000" />
+      <workItem from="1544668534154" duration="615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350491000" />
+    <option name="totallyTimeSpent" value="365365000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="460" y="3" width="1391" height="1078" extended-state="0" />
+    <frame x="357" y="2" width="1391" height="1078" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26596543" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28249437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -496,34 +531,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Strings/No17LetterCombinationsOfAPhoneNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1722">
-          <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/No225ImplementStackUsingQueues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/No232ImplementQueueUsingStacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/No155MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stack/No94BinaryTreeInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
@@ -584,13 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1344">
           <caret line="66" column="69" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -805,6 +805,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashTable/No349IntersectionOfTwoArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1659">
@@ -838,15 +845,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TwoPointer/No142LinkedListCycleII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        <state relative-caret-position="630">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TwoPointer/No209MinimunSizeSubarraySum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="68" column="19" lean-forward="true" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+        <state relative-caret-position="1428">
+          <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwoPointer/No75SortColors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwoPointer/No153Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/No100SameTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="54" column="83" selection-start-line="54" selection-start-column="83" selection-end-line="54" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwoPointer/No287FindTheDuplicateNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
