@@ -16,7 +16,7 @@
     <session id="-926758042">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="67" />
+          <entry key="project.closed" value="68" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.23" value="1" />
@@ -36,44 +36,35 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.7" value="12" />
-          <entry key="project.open.time.8" value="29" />
+          <entry key="project.open.time.8" value="30" />
           <entry key="project.open.time.9" value="7" />
-          <entry key="project.opened" value="75" />
+          <entry key="project.opened" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="148" />
+          <entry key="java" value="149" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="148" />
+          <entry key="JAVA" value="149" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="66217" />
+          <entry key="java" value="66844" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="66217" />
+          <entry key="JAVA" value="66844" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TwoPointer/No11ContainerWithMostWater.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="987">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TwoPointer/No61RotateList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -146,28 +137,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TwoPointer/No287FindTheDuplicateNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
+            <state relative-caret-position="735">
               <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/No107BinaryTreeLevelOrderTraversalII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="94" column="44" selection-start-line="94" selection-start-column="44" selection-end-line="94" selection-end-column="44" />
+            <state relative-caret-position="688">
+              <caret line="115" column="69" lean-forward="true" selection-start-line="115" selection-start-column="69" selection-end-line="115" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#737#752#0" expanded="true" />
-                <element signature="e#822#832#0" expanded="true" />
-                <element signature="e#878#888#0" expanded="true" />
-                <element signature="e#1084#1093#0" expanded="true" />
-                <element signature="e#1439#1448#0" expanded="true" />
-                <element signature="e#1922#1937#0" expanded="true" />
-                <element signature="e#2027#2037#0" expanded="true" />
-                <element signature="e#2165#2174#0" expanded="true" />
-                <element signature="e#2905#2920#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tree/No110BalancedBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+              <folding>
+                <element signature="e#1665#1666#0" expanded="true" />
+                <element signature="e#1709#1710#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -188,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Stack/No225ImplementStackUsingQueues.java" />
         <option value="$PROJECT_DIR$/src/Stack/No232ImplementQueueUsingStacks.java" />
         <option value="$PROJECT_DIR$/src/Stack/No155MinStack.java" />
         <option value="$PROJECT_DIR$/src/Stack/No496NextGreaterElementI.java" />
@@ -239,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/Tree/No100SameTree.java" />
         <option value="$PROJECT_DIR$/src/TwoPointer/No287FindTheDuplicateNumber.java" />
         <option value="$PROJECT_DIR$/src/Tree/No107BinaryTreeLevelOrderTraversalII.java" />
+        <option value="$PROJECT_DIR$/src/Tree/No110BalancedBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -255,8 +250,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="357" />
-    <option name="y" value="2" />
+    <option name="x" value="556" />
+    <option name="y" value="8" />
     <option name="width" value="1391" />
     <option name="height" value="1078" />
   </component>
@@ -295,7 +290,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544948202198" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545048938575" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -323,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No107BinaryTreeLevelOrderTraversalII">
+  <component name="RunManager" selected="Application.No110BalancedBinaryTree">
     <configuration name="No100SameTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tree.No100SameTree" />
       <module name="leetcode" />
@@ -339,6 +334,19 @@
     </configuration>
     <configuration name="No107BinaryTreeLevelOrderTraversalII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tree.No107BinaryTreeLevelOrderTraversalII" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No110BalancedBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.No110BalancedBinaryTree" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -376,33 +384,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No75SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.No75SortColors" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TwoPointer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.No75SortColors" />
       <item itemvalue="Application.No153Sum" />
       <item itemvalue="Application.No100SameTree" />
       <item itemvalue="Application.No287FindTheDuplicateNumber" />
       <item itemvalue="Application.No107BinaryTreeLevelOrderTraversalII" />
+      <item itemvalue="Application.No110BalancedBinaryTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No110BalancedBinaryTree" />
         <item itemvalue="Application.No107BinaryTreeLevelOrderTraversalII" />
         <item itemvalue="Application.No287FindTheDuplicateNumber" />
         <item itemvalue="Application.No100SameTree" />
         <item itemvalue="Application.No153Sum" />
-        <item itemvalue="Application.No75SortColors" />
       </list>
     </recent_temporary>
   </component>
@@ -490,17 +485,18 @@
       <workItem from="1544600234065" duration="1083000" />
       <workItem from="1544668534154" duration="2500000" />
       <workItem from="1544925519637" duration="5711000" />
+      <workItem from="1545031889141" duration="3220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="372961000" />
+    <option name="totallyTimeSpent" value="376181000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="357" y="2" width="1391" height="1078" extended-state="0" />
+    <frame x="556" y="8" width="1391" height="1078" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28700227" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29151013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -537,13 +533,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Stack/No144BinaryTreePreorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/NestedInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -885,26 +874,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TwoPointer/No287FindTheDuplicateNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
+        <state relative-caret-position="735">
           <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/No107BinaryTreeLevelOrderTraversalII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="94" column="44" selection-start-line="94" selection-start-column="44" selection-end-line="94" selection-end-column="44" />
+        <state relative-caret-position="688">
+          <caret line="115" column="69" lean-forward="true" selection-start-line="115" selection-start-column="69" selection-end-line="115" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#737#752#0" expanded="true" />
-            <element signature="e#822#832#0" expanded="true" />
-            <element signature="e#878#888#0" expanded="true" />
-            <element signature="e#1084#1093#0" expanded="true" />
-            <element signature="e#1439#1448#0" expanded="true" />
-            <element signature="e#1922#1937#0" expanded="true" />
-            <element signature="e#2027#2037#0" expanded="true" />
-            <element signature="e#2165#2174#0" expanded="true" />
-            <element signature="e#2905#2920#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/No110BalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+          <folding>
+            <element signature="e#1665#1666#0" expanded="true" />
+            <element signature="e#1709#1710#0" expanded="true" />
           </folding>
         </state>
       </provider>
