@@ -41,6 +41,6 @@ class Solution108 {
 public class No108sortedArrayToBST {
     public static void main(String[] args){
         int[] nums = {-10,-3,0,5,9};
-        System.out.println(new Solution108().sortedArrayToBST(nums));
+        System.out.println(new Solution108().sortedArrayToBST(nums).val);
     }
 }
