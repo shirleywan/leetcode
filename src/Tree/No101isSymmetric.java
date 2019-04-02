@@ -65,6 +65,9 @@ class Solution101 {
      */
     public boolean isSymmetric1(TreeNode root){
         if (root == null) return true;
+        TreeNode p = root.left;
+        TreeNode q = root.right;
+
         return false;
     }
 }
