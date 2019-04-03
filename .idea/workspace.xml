@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/offer/No3.java" line="53" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22f33584-c407-45ba-b30c-1fc29575e98f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/No101isSymmetric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/No101isSymmetric.java" afterDir="false" />
-    </list>
+    <list default="true" id="22f33584-c407-45ba-b30c-1fc29575e98f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +29,7 @@
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="3" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.38" value="1" />
@@ -44,27 +42,27 @@
           <entry key="project.open.time.7" value="13" />
           <entry key="project.open.time.8" value="33" />
           <entry key="project.open.time.9" value="10" />
-          <entry key="project.opened" value="89" />
+          <entry key="project.opened" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="157" />
+          <entry key="java" value="158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="157" />
+          <entry key="JAVA" value="158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="70233" />
+          <entry key="java" value="70761" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="70233" />
+          <entry key="JAVA" value="70761" />
         </counts>
       </usages-collector>
     </session>
@@ -86,20 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/No101isSymmetric.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tree/No104maxDepth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="25" column="106" selection-start-line="25" selection-start-column="106" selection-end-line="25" selection-end-column="106" />
+            <state relative-caret-position="1470">
+              <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,9 +94,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tree/No104maxDepth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tree/No96numTrees.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/No107BinaryTreeLevelOrderTraversalII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="2184">
               <caret line="108" column="37" selection-start-line="108" selection-start-column="37" selection-end-line="108" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -134,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Stack/No173BinarySearchTreeIterator.java" />
         <option value="$PROJECT_DIR$/src/Stack/No331VerifyPreorderSerializationofABinaryTree.java" />
         <option value="$PROJECT_DIR$/src/utils/NestedInteger.java" />
         <option value="$PROJECT_DIR$/src/Stack/No341FlattenNestedListIterator.java" />
@@ -185,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/Tree/No108sortedArrayToBST.java" />
         <option value="$PROJECT_DIR$/src/Tree/No101isSymmetric.java" />
         <option value="$PROJECT_DIR$/src/Tree/No104maxDepth.java" />
+        <option value="$PROJECT_DIR$/src/Tree/No96numTrees.java" />
       </list>
     </option>
   </component>
@@ -214,6 +221,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -244,13 +252,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554187531573" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554259855339" />
     <property name="last_opened_file_path" value="E:/java/project/client/Client" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -279,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No104maxDepth">
+  <component name="RunManager" selected="Application.No96numTrees">
     <configuration name="No101isSymmetric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tree.No101isSymmetric" />
       <module name="leetcode" />
@@ -319,19 +326,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No110BalancedBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.No110BalancedBinaryTree" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="No111MinimumDepthOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tree.No111MinimumDepthOfBinaryTree" />
       <module name="leetcode" />
@@ -345,20 +339,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="No96numTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.No96numTrees" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.No110BalancedBinaryTree" />
       <item itemvalue="Application.No111MinimumDepthOfBinaryTree" />
       <item itemvalue="Application.No108sortedArrayToBST" />
       <item itemvalue="Application.No101isSymmetric" />
       <item itemvalue="Application.No104maxDepth" />
+      <item itemvalue="Application.No96numTrees" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No96numTrees" />
         <item itemvalue="Application.No104maxDepth" />
         <item itemvalue="Application.No101isSymmetric" />
         <item itemvalue="Application.No108sortedArrayToBST" />
         <item itemvalue="Application.No111MinimumDepthOfBinaryTree" />
-        <item itemvalue="Application.No110BalancedBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -460,17 +467,18 @@
       <workItem from="1554082278002" duration="2314000" />
       <workItem from="1554099536752" duration="637000" />
       <workItem from="1554169763721" duration="2349000" />
+      <workItem from="1554258254632" duration="1593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="407110000" />
+    <option name="totallyTimeSpent" value="408703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="475" y="3" width="1391" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28024042" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28474832" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -479,7 +487,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1916758" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1916758" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39724576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -507,13 +515,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Strings/No151ReverseWordsInAString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Strings/No43MultiplyStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -842,8 +843,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/No101isSymmetric.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        <state relative-caret-position="1470">
+          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -852,7 +853,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/No107BinaryTreeLevelOrderTraversalII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="2184">
           <caret line="108" column="37" selection-start-line="108" selection-start-column="37" selection-end-line="108" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -862,11 +863,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/No104maxDepth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="25" column="106" selection-start-line="25" selection-start-column="106" selection-end-line="25" selection-end-column="106" />
+        <state relative-caret-position="125">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/No96numTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
         </state>
       </provider>
     </entry>
