@@ -18,7 +18,7 @@
     <session id="-926758042">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="83" />
+          <entry key="project.closed" value="84" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="1" />
@@ -44,8 +44,8 @@
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.7" value="13" />
           <entry key="project.open.time.8" value="34" />
-          <entry key="project.open.time.9" value="10" />
-          <entry key="project.opened" value="93" />
+          <entry key="project.open.time.9" value="11" />
+          <entry key="project.opened" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -99,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/No104maxDepth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="48" column="61" lean-forward="true" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+            <state relative-caret-position="945">
+              <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/src/Tree/No235lowestCommonAncestor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="54" />
+              <caret line="6" column="54" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -215,9 +215,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,6 +244,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -465,17 +465,18 @@
       <workItem from="1554342233654" duration="6414000" />
       <workItem from="1554359128838" duration="6000" />
       <workItem from="1554445621867" duration="4372000" />
+      <workItem from="1554453197105" duration="163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="419577000" />
+    <option name="totallyTimeSpent" value="419740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="475" y="3" width="1391" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29827198" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30277985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -814,6 +815,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/No96numTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/No95generateTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-687">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/No107BinaryTreeLevelOrderTraversalII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="108" column="37" selection-start-line="108" selection-start-column="37" selection-end-line="108" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/No108sortedArrayToBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -834,37 +862,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/No96numTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/No95generateTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-687">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/No104maxDepth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="48" column="61" lean-forward="true" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/No107BinaryTreeLevelOrderTraversalII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="108" column="37" selection-start-line="108" selection-start-column="37" selection-end-line="108" selection-end-column="37" />
+        <state relative-caret-position="945">
+          <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -874,7 +875,7 @@
     <entry file="file://$PROJECT_DIR$/src/Tree/No235lowestCommonAncestor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="54" />
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
