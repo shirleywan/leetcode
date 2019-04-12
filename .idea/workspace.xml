@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/offer/No3.java" line="53" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22f33584-c407-45ba-b30c-1fc29575e98f" name="Default Changelist" comment="" />
+    <list default="true" id="22f33584-c407-45ba-b30c-1fc29575e98f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +18,7 @@
     <session id="-926758042">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="90" />
+          <entry key="project.closed" value="91" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="1" />
@@ -43,28 +45,28 @@
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.7" value="14" />
           <entry key="project.open.time.8" value="38" />
-          <entry key="project.open.time.9" value="11" />
-          <entry key="project.opened" value="101" />
+          <entry key="project.open.time.9" value="12" />
+          <entry key="project.opened" value="102" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="173" />
+          <entry key="java" value="175" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="173" />
+          <entry key="JAVA" value="175" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="78488" />
+          <entry key="java" value="78614" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="78488" />
+          <entry key="JAVA" value="78614" />
         </counts>
       </usages-collector>
     </session>
@@ -86,8 +88,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/No102levelOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="734">
-              <caret line="150" column="66" lean-forward="true" selection-start-line="132" selection-start-column="8" selection-end-line="150" selection-end-column="66" />
+            <state relative-caret-position="3129">
+              <caret line="150" column="66" selection-start-line="132" selection-start-column="8" selection-end-line="150" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tree/No113pathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="819">
+              <caret line="100" column="65" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="100" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,15 +110,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tree/No113pathSum.java">
+        <entry file="file://$PROJECT_DIR$/src/Tree/No114flatten.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
-              <caret line="49" column="90" selection-start-line="49" selection-start-column="90" selection-end-line="49" selection-end-column="90" />
+            <state relative-caret-position="482">
+              <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#699#714#0" expanded="true" />
-                <element signature="e#1731#1746#0" expanded="true" />
-                <element signature="e#1803#1812#0" expanded="true" />
+                <element signature="e#2358#2367#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tree/No106buildTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Stack/No556NextGreaterElementIII.java" />
         <option value="$PROJECT_DIR$/src/Strings/No227BasicCalculatorII.java" />
         <option value="$PROJECT_DIR$/src/Strings/No459RepeatedSubstringPattern.java" />
         <option value="$PROJECT_DIR$/src/Strings/No434NumberOfSegmentsInAString.java" />
@@ -176,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/Tree/No105buildTree.java" />
         <option value="$PROJECT_DIR$/src/Tree/No106buildTree.java" />
         <option value="$PROJECT_DIR$/src/Tree/No113pathSum.java" />
+        <option value="$PROJECT_DIR$/src/Tree/No114flatten.java" />
       </list>
     </option>
   </component>
@@ -204,7 +228,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -228,19 +252,26 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="No106buildTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554962147362" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555049988495" />
     <property name="last_opened_file_path" value="E:/java/project/client/Client" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -269,7 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No113pathSum">
+  <component name="RunManager" selected="Application.No114flatten">
     <configuration name="No102levelOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tree.No102levelOrder" />
       <module name="leetcode" />
@@ -322,8 +353,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No98isValidBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.No98isValidBST" />
+    <configuration name="No114flatten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.No114flatten" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -336,19 +367,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.No98isValidBST" />
       <item itemvalue="Application.No102levelOrder" />
       <item itemvalue="Application.No105buildTree" />
       <item itemvalue="Application.No106buildTree" />
       <item itemvalue="Application.No113pathSum" />
+      <item itemvalue="Application.No114flatten" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No114flatten" />
         <item itemvalue="Application.No113pathSum" />
         <item itemvalue="Application.No106buildTree" />
         <item itemvalue="Application.No105buildTree" />
         <item itemvalue="Application.No102levelOrder" />
-        <item itemvalue="Application.No98isValidBST" />
       </list>
     </recent_temporary>
   </component>
@@ -462,17 +493,18 @@
       <workItem from="1554772921762" duration="8393000" />
       <workItem from="1554859404100" duration="1188000" />
       <workItem from="1554949205605" duration="4304000" />
+      <workItem from="1555036582830" duration="3862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="449598000" />
+    <option name="totallyTimeSpent" value="453460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="439" y="0" width="1447" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31939438" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32444125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -509,13 +541,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/database/No181EmployeesEarningMoreThanTheirManagers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/database/No183CustomersWhoNeverOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -810,30 +835,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/No104maxDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stack/No232ImplementQueueUsingStacks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/No106buildTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-372">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -847,16 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/No102levelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="734">
-          <caret line="150" column="66" lean-forward="true" selection-start-line="132" selection-start-column="8" selection-end-line="150" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stack/No225ImplementStackUsingQueues.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -864,22 +859,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/No113PathSumII.java">
+    <entry file="file://$PROJECT_DIR$/src/Tree/No113PathSumII.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tree/No104maxDepth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="47" selection-end-column="5" />
+        <state relative-caret-position="945">
+          <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/No102levelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3129">
+          <caret line="150" column="66" selection-start-line="132" selection-start-column="8" selection-end-line="150" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/No113pathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="49" column="90" selection-start-line="49" selection-start-column="90" selection-end-line="49" selection-end-column="90" />
+        <state relative-caret-position="819">
+          <caret line="100" column="65" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="100" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#699#714#0" expanded="true" />
-            <element signature="e#1731#1746#0" expanded="true" />
-            <element signature="e#1803#1812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/No106buildTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/No114flatten.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2358#2367#0" expanded="true" />
           </folding>
         </state>
       </provider>
