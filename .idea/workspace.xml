@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/offer/No3.java" line="53" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22f33584-c407-45ba-b30c-1fc29575e98f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="22f33584-c407-45ba-b30c-1fc29575e98f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,12 +61,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="81102" />
+          <entry key="java" value="81148" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="81102" />
+          <entry key="JAVA" value="81148" />
         </counts>
       </usages-collector>
     </session>
@@ -135,10 +133,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Stack/No150evalRPN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="55" column="94" selection-start-line="55" selection-start-column="94" selection-end-line="55" selection-end-column="94" />
+            <state relative-caret-position="254">
+              <caret line="35" column="111" selection-start-line="35" selection-start-column="111" selection-end-line="35" selection-end-column="111" />
               <folding>
-                <element signature="e#1171#1180#0" expanded="true" />
+                <element signature="e#1501#1510#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -287,7 +285,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555391331058" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555391988200" />
     <property name="last_opened_file_path" value="E:/java/project/client/Client" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -513,12 +511,12 @@
       <workItem from="1555118602305" duration="4685000" />
       <workItem from="1555130962267" duration="616000" />
       <workItem from="1555204801714" duration="4589000" />
-      <workItem from="1555378237736" duration="3504000" />
+      <workItem from="1555378237736" duration="4164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="466854000" />
+    <option name="totallyTimeSpent" value="467514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="486" y="6" width="1447" height="1047" extended-state="0" />
@@ -922,10 +920,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Stack/No150evalRPN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="55" column="94" selection-start-line="55" selection-start-column="94" selection-end-line="55" selection-end-column="94" />
+        <state relative-caret-position="254">
+          <caret line="35" column="111" selection-start-line="35" selection-start-column="111" selection-end-line="35" selection-end-column="111" />
           <folding>
-            <element signature="e#1171#1180#0" expanded="true" />
+            <element signature="e#1501#1510#0" expanded="true" />
           </folding>
         </state>
       </provider>
