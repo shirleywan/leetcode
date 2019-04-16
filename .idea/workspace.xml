@@ -16,7 +16,7 @@
     <session id="-926758042">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="94" />
+          <entry key="project.closed" value="95" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="3" />
@@ -133,8 +133,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Stack/No150evalRPN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="35" column="111" selection-start-line="35" selection-start-column="111" selection-end-line="35" selection-end-column="111" />
+            <state relative-caret-position="359">
+              <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
               <folding>
                 <element signature="e#1501#1510#0" expanded="true" />
               </folding>
@@ -285,7 +285,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555391988200" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555392022560" />
     <property name="last_opened_file_path" value="E:/java/project/client/Client" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -511,12 +511,12 @@
       <workItem from="1555118602305" duration="4685000" />
       <workItem from="1555130962267" duration="616000" />
       <workItem from="1555204801714" duration="4589000" />
-      <workItem from="1555378237736" duration="4164000" />
+      <workItem from="1555378237736" duration="4239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="467514000" />
+    <option name="totallyTimeSpent" value="467589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="486" y="6" width="1447" height="1047" extended-state="0" />
@@ -531,7 +531,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2343921" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2343921" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39649507" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -920,8 +920,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Stack/No150evalRPN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="35" column="111" selection-start-line="35" selection-start-column="111" selection-end-line="35" selection-end-column="111" />
+        <state relative-caret-position="359">
+          <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
           <folding>
             <element signature="e#1501#1510#0" expanded="true" />
           </folding>
