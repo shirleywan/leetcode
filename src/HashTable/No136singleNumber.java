@@ -30,7 +30,7 @@ class Solution136 {
 //    }
 }
 
-public class singleNumber136 {
+public class No136singleNumber {
     public static int[] stringToIntegerArray(String input) {
         input = input.trim();
         input = input.substring(1, input.length() - 1);
