@@ -54,7 +54,7 @@ class Solution83 {
     }
 }
 
-public class deleteDuplicates83 {
+public class No83deleteDuplicates {
     public static int[] stringToIntegerArray(String input) {
         input = input.trim();
         input = input.substring(1, input.length() - 1);
