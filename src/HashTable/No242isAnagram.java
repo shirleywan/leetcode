@@ -39,7 +39,7 @@ class Solution242 {
     }
 }
 
-public class isAnagram242 {
+public class No242isAnagram {
     public static String stringToString(String input) {
         assert input.length() >= 2;
         StringBuilder sb = new StringBuilder();
