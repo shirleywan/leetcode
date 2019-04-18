@@ -34,7 +34,7 @@ class Solution {
     }
 }
 
-public class isIsomorphic205 {
+public class No205isIsomorphic {
     public static String stringToString(String input) {
         assert input.length() >= 2;
         StringBuilder sb = new StringBuilder();
