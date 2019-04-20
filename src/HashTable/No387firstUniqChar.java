@@ -30,10 +30,35 @@ class Solution387 {
         }
         return -1;
     }
+
+    /**
+     * Runtime: 46 ms, faster than 31.16% of Java online submissions for First Unique Character in a String.
+     * Memory Usage: 39.9 MB, less than 16.61% of Java online submissions for First Unique Character in a String.
+     */
+    public int firstUniqChar2(String s) {
+        HashMap<Character,Integer> hMap = new HashMap<>();
+        for(int i=0; i< s.length(); i++){
+            char ch = s.charAt(i);
+            if(!hMap.containsKey(ch)){
+                hMap.put(ch, 1);
+            }else{
+                int count = hMap.get(ch);
+                count = count +1;
+                hMap.replace(ch, count);
+            }
+        }
+        for(int i=0; i< s.length(); i++){
+            int count = hMap.get(s.charAt(i));
+            if(count == 1){
+                return i;
+            }
+        }
+        return -1;
+    }
 }
 public class No387firstUniqChar {
     public static void main(String[] args){
         String string = "loveleetcode";
-        System.out.println(new Solution387().firstUniqChar(string));
+        System.out.println(new Solution387().firstUniqChar2(string));
     }
 }
