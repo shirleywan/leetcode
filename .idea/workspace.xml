@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/offer/No3.java" line="53" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22f33584-c407-45ba-b30c-1fc29575e98f" name="Default Changelist" comment="" />
+    <list default="true" id="22f33584-c407-45ba-b30c-1fc29575e98f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +18,8 @@
     <session id="-926758042">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="107" />
-          <entry key="project.open.time.0" value="8" />
+          <entry key="project.closed" value="109" />
+          <entry key="project.open.time.0" value="10" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="1" />
@@ -47,27 +49,27 @@
           <entry key="project.open.time.7" value="15" />
           <entry key="project.open.time.8" value="39" />
           <entry key="project.open.time.9" value="12" />
-          <entry key="project.opened" value="118" />
+          <entry key="project.opened" value="120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="200" />
+          <entry key="java" value="201" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="200" />
+          <entry key="JAVA" value="201" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="88775" />
+          <entry key="java" value="89513" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="88775" />
+          <entry key="JAVA" value="89513" />
         </counts>
       </usages-collector>
     </session>
@@ -77,24 +79,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No64minPathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="18" column="89" lean-forward="true" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+            <state relative-caret-position="378">
+              <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No120minimumTotal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2100">
+              <caret line="100" column="68" selection-start-line="100" selection-start-column="68" selection-end-line="100" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No120minimumTotal.java">
+        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No139wordBreak.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="102" column="85" selection-start-line="102" selection-start-column="85" selection-end-line="102" selection-end-column="85" />
+            <state relative-caret-position="742">
+              <caret line="82" column="29" lean-forward="true" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
               <folding>
-                <element signature="e#645#660#0" expanded="true" />
-                <element signature="e#2348#2363#0" expanded="true" />
-                <element signature="e#3848#3863#0" expanded="true" />
-                <element signature="e#3973#3982#0" expanded="true" />
-                <element signature="e#4055#4064#0" expanded="true" />
-                <element signature="e#4150#4159#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,7 +163,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/No106buildTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
+            <state relative-caret-position="1092">
               <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -181,7 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/database/No620NotBoringMovies.java" />
         <option value="$PROJECT_DIR$/src/TwoPointer/No19RemoveNthNodeFromEndOfList.java" />
         <option value="$PROJECT_DIR$/src/TwoPointer/No163SumClosest.java" />
         <option value="$PROJECT_DIR$/src/TwoPointer/No61RotateList.java" />
@@ -232,6 +237,7 @@
         <option value="$PROJECT_DIR$/src/DynamicProgramming/No63uniquePathsWithObstacles.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/No64minPathSum.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/No120minimumTotal.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/No139wordBreak.java" />
       </list>
     </option>
   </component>
@@ -249,7 +255,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="442" />
-    <option name="y" value="22" />
+    <option name="y" value="5" />
     <option name="width" value="1447" />
     <option name="height" value="1047" />
   </component>
@@ -261,8 +267,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -292,12 +296,14 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556418480367" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556517010176" />
     <property name="last_opened_file_path" value="E:/java/project/client/Client" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -326,7 +332,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No120minimumTotal">
+  <component name="RunManager" selected="Application.No139wordBreak">
     <configuration name="No120minimumTotal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DynamicProgramming.No120minimumTotal" />
       <module name="leetcode" />
@@ -340,8 +346,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No303NumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.No303NumArray" />
+    <configuration name="No139wordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.No139wordBreak" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -393,19 +399,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.No303NumArray" />
       <item itemvalue="Application.No62uniquePaths" />
       <item itemvalue="Application.No63uniquePathsWithObstacles" />
       <item itemvalue="Application.No64minPathSum" />
       <item itemvalue="Application.No120minimumTotal" />
+      <item itemvalue="Application.No139wordBreak" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No139wordBreak" />
         <item itemvalue="Application.No120minimumTotal" />
         <item itemvalue="Application.No64minPathSum" />
         <item itemvalue="Application.No63uniquePathsWithObstacles" />
         <item itemvalue="Application.No62uniquePaths" />
-        <item itemvalue="Application.No303NumArray" />
       </list>
     </recent_temporary>
   </component>
@@ -536,17 +542,19 @@
       <workItem from="1556241770452" duration="4677000" />
       <workItem from="1556331053220" duration="3548000" />
       <workItem from="1556415773804" duration="2704000" />
+      <workItem from="1556502777555" duration="6819000" />
+      <workItem from="1556588264280" duration="3279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="510586000" />
+    <option name="totallyTimeSpent" value="520684000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="442" y="22" width="1447" height="1047" extended-state="0" />
+    <frame x="442" y="5" width="1447" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2919971" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30064887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -583,13 +591,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TwoPointer/No153Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/No100SameTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
@@ -864,6 +865,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="652" selection-start-line="652" selection-end-line="652" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No64minPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No120minimumTotal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="100" column="68" selection-start-line="100" selection-start-column="68" selection-end-line="100" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashTable/No347topKFrequent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
@@ -908,7 +930,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/No106buildTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
+        <state relative-caret-position="1092">
           <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -916,31 +938,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No64minPathSum.java">
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No139wordBreak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="18" column="89" lean-forward="true" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="652" selection-start-line="652" selection-end-line="652" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No120minimumTotal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="102" column="85" selection-start-line="102" selection-start-column="85" selection-end-line="102" selection-end-column="85" />
+        <state relative-caret-position="742">
+          <caret line="82" column="29" lean-forward="true" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
           <folding>
-            <element signature="e#645#660#0" expanded="true" />
-            <element signature="e#2348#2363#0" expanded="true" />
-            <element signature="e#3848#3863#0" expanded="true" />
-            <element signature="e#3973#3982#0" expanded="true" />
-            <element signature="e#4055#4064#0" expanded="true" />
-            <element signature="e#4150#4159#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
