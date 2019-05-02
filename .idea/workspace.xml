@@ -18,8 +18,8 @@
     <session id="-926758042">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="109" />
-          <entry key="project.open.time.0" value="10" />
+          <entry key="project.closed" value="111" />
+          <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="1" />
@@ -48,28 +48,28 @@
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.7" value="15" />
           <entry key="project.open.time.8" value="39" />
-          <entry key="project.open.time.9" value="12" />
-          <entry key="project.opened" value="120" />
+          <entry key="project.open.time.9" value="13" />
+          <entry key="project.opened" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="201" />
+          <entry key="java" value="203" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="201" />
+          <entry key="JAVA" value="203" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="89513" />
+          <entry key="java" value="90543" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="89513" />
+          <entry key="JAVA" value="90543" />
         </counts>
       </usages-collector>
     </session>
@@ -77,30 +77,38 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No64minPathSum.java">
+        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No139wordBreak.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+            <state relative-caret-position="1239">
+              <caret line="59" column="71" selection-start-line="59" selection-start-column="71" selection-end-line="59" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No120minimumTotal.java">
+        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No152maxProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2100">
-              <caret line="100" column="68" selection-start-line="100" selection-start-column="68" selection-end-line="100" selection-end-column="68" />
+            <state relative-caret-position="280">
+              <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No139wordBreak.java">
+        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No213rob.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="742">
-              <caret line="82" column="29" lean-forward="true" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+            <state relative-caret-position="209">
+              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1624#1642#0" expanded="true" />
+                <element signature="e#1690#1708#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,7 +171,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/No106buildTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1092">
+            <state relative-caret-position="1155">
               <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -187,8 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/TwoPointer/No19RemoveNthNodeFromEndOfList.java" />
-        <option value="$PROJECT_DIR$/src/TwoPointer/No163SumClosest.java" />
         <option value="$PROJECT_DIR$/src/TwoPointer/No61RotateList.java" />
         <option value="$PROJECT_DIR$/src/TwoPointer/No86PartitionList.java" />
         <option value="$PROJECT_DIR$/src/TwoPointer/No142LinkedListCycleII.java" />
@@ -238,6 +244,8 @@
         <option value="$PROJECT_DIR$/src/DynamicProgramming/No64minPathSum.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/No120minimumTotal.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/No139wordBreak.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/No152maxProduct.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/No213rob.java" />
       </list>
     </option>
   </component>
@@ -255,7 +263,6 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="442" />
-    <option name="y" value="5" />
     <option name="width" value="1447" />
     <option name="height" value="1047" />
   </component>
@@ -267,6 +274,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -295,15 +305,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556517010176" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556775402527" />
     <property name="last_opened_file_path" value="E:/java/project/client/Client" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -332,7 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No139wordBreak">
+  <component name="RunManager" selected="Application.No152maxProduct">
     <configuration name="No120minimumTotal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DynamicProgramming.No120minimumTotal" />
       <module name="leetcode" />
@@ -359,8 +366,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No62uniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.No62uniquePaths" />
+    <configuration name="No152maxProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.No152maxProduct" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -399,19 +406,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.No62uniquePaths" />
       <item itemvalue="Application.No63uniquePathsWithObstacles" />
       <item itemvalue="Application.No64minPathSum" />
       <item itemvalue="Application.No120minimumTotal" />
       <item itemvalue="Application.No139wordBreak" />
+      <item itemvalue="Application.No152maxProduct" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No152maxProduct" />
         <item itemvalue="Application.No139wordBreak" />
         <item itemvalue="Application.No120minimumTotal" />
         <item itemvalue="Application.No64minPathSum" />
         <item itemvalue="Application.No63uniquePathsWithObstacles" />
-        <item itemvalue="Application.No62uniquePaths" />
       </list>
     </recent_temporary>
   </component>
@@ -544,17 +551,19 @@
       <workItem from="1556415773804" duration="2704000" />
       <workItem from="1556502777555" duration="6819000" />
       <workItem from="1556588264280" duration="3279000" />
+      <workItem from="1556675996515" duration="7826000" />
+      <workItem from="1556761455295" duration="4988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="520684000" />
+    <option name="totallyTimeSpent" value="533498000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="442" y="5" width="1447" height="1047" extended-state="0" />
+    <frame x="442" y="0" width="1447" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30064887" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30930066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -591,20 +600,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Tree/No100SameTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="54" column="83" selection-start-line="54" selection-start-column="83" selection-end-line="54" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/No110BalancedBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/No111MinimumDepthOfBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -886,6 +881,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No139wordBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1239">
+          <caret line="59" column="71" selection-start-line="59" selection-start-column="71" selection-end-line="59" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashTable/No347topKFrequent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
@@ -930,7 +935,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/No106buildTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1092">
+        <state relative-caret-position="1155">
           <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -938,12 +943,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No139wordBreak.java">
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No152maxProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="82" column="29" lean-forward="true" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+        <state relative-caret-position="280">
+          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/No213rob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1624#1642#0" expanded="true" />
+            <element signature="e#1690#1708#0" expanded="true" />
           </folding>
         </state>
       </provider>
